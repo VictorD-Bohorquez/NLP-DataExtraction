@@ -1,0 +1,5278 @@
+FRASES NOMINALES
+NP este/DET album/NOUN
+NP aparecio/PROPN
+NP formacion/PROPN
+NP este/DET disco/NOUN
+NP la/DET clasica/NOUN
+NP Aerosmith/PROPN
+NP Despues/NOUN
+NP Night/PROPN
+NP The/PROPN Ruts/PROPN
+NP miembros/NOUN
+NP grupo/NOUN
+NP Sr./PROPN Perry/PROPN
+NP guitarra/PROPN
+NP Sr./PROPN Whitford/PROPN
+NP tambien/NOUN
+NP guitarra/PROPN
+NP este/DET ultimo/ADJ colaboro/NOUN
+NP la/DET grabacion/NOUN
+NP Este/DET dicho/NOUN
+NP mucha/DET energia/NOUN
+NP la/DET falta/NOUN
+NP el/DET toque/NOUN
+NP Perry/PROPN
+NP Aerosmith/PROPN
+NP La/DET produccion/NOUN
+NP soberbia/NOUN
+NP escuchas/NOUN
+NP este/DET disco/NOUN
+NP unos/DET cascos/NOUN
+NP mas/PROPN
+NP Las/DET canciones/NOUN
+NP Jailbait/PROPN
+NP Un/DET rock/NOUN
+NP and/NOUN
+NP roll/NOUN
+NP resulton/PROPN
+NP Lighting/PROPN
+NP Cancion/PROPN
+NP su/DET arranque/NOUN
+NP un/DET rock/NOUN
+NP and/NOUN
+NP roll/NOUN
+NP disco?Bith´s/PROPN
+NP brew/NOUN
+NP un/DET arranque/NOUN
+NP continuacion/PROPN
+NP tiempo/NOUN
+NP ma/NOUN
+NP non/NOUN
+NP troppo/PROPN
+NP un/DET rock/NOUN
+NP un/DET rock/NOUN
+NP Bolivian/PROPN Ragamuffin/PROPN
+NP titulo/NOUN
+NP las/DET drogas/NOUN
+NP un/DET rock/NOUN
+NP and/NOUN
+NP roll/NOUN
+NP Aerosmith/PROPN
+NP menudo/ADJ riff/NOUN
+NP guitarrero/NOUN
+NP La/DET voz/NOUN
+NP Sr./PROPN Tyler/PROPN
+NP Esta/DET cancion/NOUN
+NP despues/NOUN
+NP baladaPrelude/PROPN
+NP Joanie/PROPN
+NP Enigmatico/ADJ arranque/NOUN
+NP la/DET segunda/ADJ cara/NOUN
+NP vinilo/NOUN
+NP vinilo/NOUN
+NP Joanie´s/PROPN Buterfly/PROPN
+NP Buenisima/PROPN
+NP Una/DET mezcla/NOUN
+NP balada/NOUN
+NP tiempo/NOUN
+NP Aerosmith/PROPN
+NP recuerdos/NOUN
+NP esta/DET cancion/NOUN
+NP ..../PROPN
+NP hard/PROPN place/PROPN
+NP Cheshire/PROPN cat/PROPN
+NP el/DET titulo/NOUN
+NP Lp/PROPN
+NP la/DET cancion/NOUN
+NP mas/PROPN
+NP nivel/NOUN
+NP un/DET rock/NOUN
+NP and/NOUN
+NP roll/NOUN
+NP Jig/PROPN is/PROPN up/PROPN
+NP Aerosmith/PROPN
+NP estado/NOUN
+NP Menudo/ADJ riff/NOUN
+NP su/DET nombre/NOUN
+NP toda/DET vez/NOUN
+NP ordiniarez/PROPN hacerlo/PROPN
+NP ademas/NOUN
+NP la/DET cancion/NOUN
+NP jejeje.Push/PROPN comes/PROPN
+NP shove/NOUN
+NP Balada/ADJ blues/NOUN
+NP armonica/PROPN
+NP voz/NOUN
+NP cogorza/PROPN
+NP aupa/PROPN
+NP resultona/PROPN
+NP discos/PROPN
+NP compromiso/NOUN
+NP Prince/PROPN
+NP último/ADJ disco/NOUN
+NP Prince/PROPN
+NP Warner/PROPN
+NP mercado/NOUN
+NP otro/DET disco/NOUN
+NP Prince/PROPN
+NP canciones/NOUN
+NP anteriores/ADJ discos/NOUN
+NP The/PROPN Vault/PROPN
+NP Old/PROPN Friends/PROPN
+NP Sale.En/PROPN
+NP mi/DET opinión/NOUN
+NP disco/NOUN
+NP Prince/PROPN
+NP tratarse/NOUN
+NP un/DET disco/NOUN
+NP los/DET discos/NOUN
+NP gran/ADJ público/NOUN
+NP los/DET admiradores/NOUN
+NP Prince/PROPN
+NP consuelo/NOUN
+NP principal/ADJ ventaja/NOUN
+NP un/DET prince/NOUN
+NP guitarrero/NOUN
+NP los/DET discos/NOUN
+NP los/DET conciertos/NOUN
+NP el/DET gustazo/NOUN
+NP video/PROPN
+NP la/DET guitarra/NOUN
+NP un/DET gran/ADJ protagonismo/NOUN
+NP el/DET regocijo/NOUN
+NP sus/DET seguidores/NOUN
+NP sorpresa/NOUN
+NP muchos/DET detractores/NOUN
+NP El/DET cartel/NOUN
+NP The/PROPN Big/PROPN Boss/PROPN
+NP el/DET nuevo/ADJ trabajo/NOUN
+NP cantante/NOUN
+NP Puerto/PROPN Rico/PROPN
+NP Daddy/PROPN Yankee/PROPN
+NP Daddy/PROPN Yankee/PROPN
+NP el/DET creador/NOUN
+NP genero/NOUN
+NP reggaeton/PROPN
+NP su/DET mayor/ADJ representante/NOUN
+NP nivel/NOUN
+NP una/DET estrella/NOUN
+NP su/DET país/NOUN
+NP Estados/PROPN Unidos/PROPN
+NP público/NOUN
+NP éxitos/NOUN
+NP Gasolina/PROPN
+NP Paso/PROPN Paso/PROPN
+NP este/DET nuevo/ADJ trabajo/NOUN
+NP mismo/DET mes/NOUN
+NP su/DET esencia/NOUN
+NP flojo/NOUN
+NP gasolina/NOUN
+NP cd/PROPN
+NP temas/NOUN
+NP varios/DET generos/NOUN
+NP reggaeton/PROPN
+NP el/DET hip/NOUN
+NP hop/PROPN
+NP la/DET salsa/NOUN
+NP mucho/DET tema/NOUN
+NP bastantes/DET temas/NOUN
+NP relleno/NOUN
+NP cabo/NOUN
+NP tiempo/NOUN
+NP sus/DET grandes/ADJ exitos/NOUN
+NP cd/PROPN
+NP las/DET buenas/ADJ colaboraciones/NOUN
+NP akon/PROPN
+NP fergie/PROPN
+NP black/PROPN eyed/PROPN peas/PROPN
+NP Scott/PROPN Storch/PROPN
+NP un/DET especialista/NOUN
+NP autenticos/ADJ bombazos/NOUN
+NP artistas/NOUN
+NP 50Cent/PROPN
+NP The/PROPN Game/PROPN
+NP su/DET estudio/NOUN
+NP oro/NOUN
+NP sus/DET seguidores/NOUN
+NP mucho/DET tema/NOUN
+NP su/DET vida/NOUN
+NP sus/DET problemas/NOUN
+NP sus/DET dificultades/NOUN
+NP sus/DET inicios/NOUN
+NP sus/DET agradecimientos/NOUN
+NP un/DET género/NOUN
+NP reggaeton/PROPN
+NP su/DET mérito/NOUN
+NP este/DET trabajo/NOUN
+NP Barrio/PROPN Fino/PROPN
+NP temas/NOUN
+NP bastantes/DET calidad/NOUN
+NP duda/NOUN
+NP un/DET exito/NOUN
+NP este/DET verano/NOUN
+NP terrazas/NOUN
+NP carpas/NOUN
+NP discotecas/NOUN
+NP emisoras/NOUN
+NP años/NOUN
+NP su/DET ultimo/ADJ trabajo/NOUN
+NP sus/DET seguidores/NOUN
+NP mi/DET opinión/NOUN
+NP un/DET trabajo/NOUN
+NP colaboraciones/NOUN
+NP gran/ADJ calidad/NOUN
+NP buenos/ADJ ritmos/NOUN
+NP variedad/NOUN
+NP estilos/NOUN
+NP buena/ADJ produccion/NOUN
+NP buenas/ADJ colaboraciones/NOUN
+NP un/DET trabajo/NOUN
+NP este/DET tipo/NOUN
+NP música/NOUN
+NP sus/DET seguidores/NOUN
+NP solo/ADJ decir/NOUN
+NP los/DET cines/NOUN
+NP una/DET peli/NOUN
+NP su/DET vida/NOUN
+NP Talento/PROPN
+NP Barrio/PROPN
+NP describiros/NOUN
+NP tema/NOUN
+NP tema/NOUN
+NP su/DET disco/NOUN
+NP el/DET tema/NOUN
+NP este/DET nuevo/ADJ trabajo/NOUN
+NP Daddy/PROPN Yankee/PROPN
+NP Jefe/PROPN
+NP su/DET regreso/NOUN
+NP ritmos/NOUN
+NP hip/NOUN
+NP hop/NOUN
+NP produccion/NOUN
+NP Scott/PROPN Torch/PROPN
+NP sus/DET enemigos/NOUN
+NP Don/PROPN Omar/PROPN
+NP payaso/NOUN
+NP buen/ADJ comienzo/NOUN
+NP lírica.2.En/PROPN
+NP sus/DET marcas/NOUN
+NP un/DET tema/NOUN
+NP reggaeton/PROPN
+NP la/DET larga/NOUN
+NP este/DET tipo/NOUN
+NP canciones/NOUN
+NP opinion/PROPN
+NP un/DET tema/NOUN
+NP relleno.3.CambioOtro/ADJ tema/NOUN
+NP reggaeton/PROPN
+NP este/DET caso/NOUN
+NP mas.4.Fuera/PROPN
+NP controlEs/PROPN
+NP un/DET tema/NOUN
+NP reggaeton/PROPN
+NP mal.5.ImpactoEs/PROPN
+NP el/DET primer/ADJ single/NOUN
+NP cd/PROPN
+NP Un/DET tema/NOUN
+NP puro/ADJ estilo/NOUN
+NP Daddy/PROPN Yankee/PROPN
+NP la/DET versión/NOUN
+NP Fergie/PROPN
+NP Black/PROPN Eyed/PROPN Peas/PROPN
+NP un/DET éxito/NOUN
+NP esta/DET canción/NOUN
+NP Yankee/PROPN
+NP estado/NOUN
+NP Los/DET seguidores/NOUN
+NP este/DET artista/NOUN
+NP este/DET tema/NOUN
+NP sus/DET grandes/ADJ exitos/NOUN
+NP pasó"/PROPN
+NP una/DET canción/NOUN
+NP ritmo/NOUN
+NP muchó/PROPN
+NP un/DET tema/NOUN
+NP un/DET gran/ADJ éxito/NOUN
+NP yankee/PROPN
+NP solo/NOUN
+NP el/DET hip/NOUN
+NP hop/PROPN
+NP reggaeton/PROPN
+NP también/NOUN
+NP la/DET salsa/NOUN
+NP la/DET verdad/NOUN
+NP clásicoUn/PROPN tema/PROPN
+NP reggaeton/PROPN
+NP Pesado/PROPN
+NP liricas/NOUN
+NP flojas.8.Bring/PROPN
+NP onEste/PROPN
+NP los/DET temas/NOUN
+NP cd/PROPN
+NP los/DET ritmos/NOUN
+NP caribeños/NOUN
+NP Daddy/PROPN Yankee/PROPN
+NP la/DET inigualable/ADJ colaboración/NOUN
+NP Akon/PROPN
+NP hip/NOUN
+NP Usa/PROPN
+NP las/DET voces/NOUN
+NP mas/PROPN caché/PROPN
+NP este/DET mundillo/NOUN
+NP duda/NOUN
+NP un/DET tema/NOUN
+NP escuchar.9.Whos/PROPN your/PROPN DaddyPara/PROPN mi/PROPN
+NP la/DET canción/NOUN
+NP calidad/NOUN
+NP cd/PROPN
+NP la/DET peor/ADJ pista/NOUN
+NP celularOtro/ADJ tema/NOUN
+NP relleno/NOUN
+NP dameloOtro/DET tema/NOUN
+NP mas/PROPN
+NP genero/NOUN
+NP reggaeton/PROPN
+NP repetitivo.12.Papi/PROPN LoverEs/PROPN
+NP un/DET tema/NOUN
+NP ritmos/NOUN
+NP puertorriqueños/NOUN
+NP colaboración/NOUN
+NP la/DET guapisima/NOUN
+NP Nicole/PROPN
+NP pussycat/PROPN dolls/PROPN
+NP esta/DET mal/NOUN
+NP esta/DET artista/NOUN
+NP un/DET tema/NOUN
+NP nivel/NOUN
+NP convencer.13.Que/PROPN
+NP mi/PROPN
+NP el/DET mejor/ADJ tema/NOUN
+NP disco/NOUN
+NP duda/NOUN
+NP la/DET producción/NOUN
+NP Scott/PROPN Storch/PROPN
+NP un/DET tema/NOUN
+NP excelentes/ADJ ritmos/NOUN
+NP hop/NOUN
+NP Las/DET líricas/NOUN
+NP genero/NOUN
+NP Don/PROPN Omar/PROPN
+NP diciendole/PROPN
+NP su/DET nivel/NOUN
+NP Daddy/PROPN
+NP Boss/PROPN
+NP el/DET jefe/NOUN
+NP el/DET numero/NOUN
+NP estadoCreo/PROPN
+NP los/DET grandes/ADJ exitos/NOUN
+NP cd/PROPN
+NP mas/PROPN
+NP su/DET gran/ADJ exito/NOUN
+NP Gasolina/PROPN
+NP Un/DET tema/NOUN
+NP un/DET tema/NOUN
+NP reggaeton/PROPN puro/PROPN
+NP el/DET género/NOUN
+NP esta/DET canción/NOUN
+NP la/DET colaboración/NOUN
+NP género/NOUN
+NP Hector/PROPN
+NP Father/PROPN
+NP La/DET canción/NOUN
+NP nivel/NOUN
+NP sus/DET grandes/ADJ exitos/NOUN
+NP reggaeton/PROPN
+NP gasolina/NOUN
+NP tu/DET principe/NOUN
+NP cuentame/PROPN
+NP soy"La/PROPN
+NP el/DET estribillo/NOUN
+NP este/DET tema/NOUN
+NP las/DET gracias/NOUN
+NP sus/DET seguidores/NOUN
+NP reggaeton/PROPN
+NP esta/DET canción/NOUN
+NP una/DET buena/ADJ lírica/NOUN
+NP ritmos.17.Coraza/PROPN divinaEs/PROPN
+NP los/DET temas/NOUN
+NP mas/PROPN
+NP ritmos/NOUN
+NP salseros/NOUN
+NP hip/DET hop/NOUN
+NP estilo/NOUN
+NP grupo/NOUN
+NP Orishas/PROPN
+NP los/DET momentos/NOUN
+NP su/DET vida/NOUN
+NP el/DET disparo/NOUN
+NP su/DET sueño/NOUN
+NP pelotero/NOUN
+NP jugador/NOUN
+NP futbol/NOUN
+NP beisbol/NOUN
+NP su/DET vida/NOUN
+NP la/DET calle/NOUN
+NP sus/DET comienzos/NOUN
+NP la/DET musica/NOUN
+NP su/DET ascenso/NOUN
+NP la/DET cima/NOUN
+NP buenos/ADJ ritmos/NOUN
+NP to/PROPN PrEs/PROPN
+NP un/DET tema/NOUN
+NP puro/ADJ estilo/NOUN
+NP Black/PROPN Eyed/PROPN Peas/PROPN
+NP hecho/NOUN
+NP el/DET artista/NOUN
+NP Will/PROPN
+NP Am/PROPN
+NP este/DET grupo/NOUN
+NP esta/DET canción/NOUN
+NP un/DET tipo/NOUN
+NP música/NOUN
+NP una/DET crítica/NOUN
+NP gobierno/NOUN
+NP Estados/PROPN Unidos/PROPN
+NP una/DET crítica/NOUN
+NP la/DET vida/NOUN
+NP los/DET inmigrantes/NOUN
+NP Estados/PROPN Unidos/PROPN
+NP la/DET discriminacion/NOUN
+NP el/DET racismo/NOUN
+NP la/DET xenofobia/NOUN
+NP la/DET esclavitud/NOUN
+NP el/DET pais/NOUN
+NP la/DET libertad/NOUN
+NP RaymondRaymond/PROPN Ayala/PROPN
+NP Daddy/PROPN Yankee/PROPN
+NP un/DET tema/NOUN
+NP hip/NOUN
+NP hop/NOUN
+NP esta/DET mal/NOUN
+NP Pura/PROPN
+NP lírica/NOUN
+NP barrio/NOUN
+NP el/DET proclama/NOUN
+NP un/DET personaje/NOUN
+NP verdad/NOUN
+NP su/DET tierra/NOUN
+NP Puerto/PROPN Rico/PROPN
+NP Dios/PROPN
+NP reggaeton/PROPN
+NP el/DET hip/NOUN
+NP hop/PROPN
+NP una/DET forma/NOUN
+NP vida/NOUN
+NP los/DET jovenes/NOUN
+NP El/DET verso/NOUN
+NP esta/DET canción/NOUN
+NP un/DET grupo/NOUN
+NP niños/NOUN
+NP Raymond/PROPN xD.También/PROPN
+NP un/DET tema/NOUN
+NP sus/DET fans/NOUN
+NP RemixEs/PROPN
+NP el/DET primer/ADJ single/NOUN
+NP este/DET nuevo/ADJ trabajo/NOUN
+NP el/DET tema/NOUN
+NP mas/PROPN
+NP un/DET tema/NOUN
+NP las/DET discotecas/NOUN
+NP las/DET emisoras/NOUN
+NP radio/NOUN
+NP este/DET tema/NOUN
+NP la/DET artista/NOUN
+NP Fergie/PROPN
+NP grupo/NOUN
+NP Black/PROPN Eyed/PROPN Peas/PROPN
+NP Este/DET tema/NOUN
+NP Scott/PROPN Storch/PROPN
+NP gustadoun/PROPN saludoelsuso_armani/PROPN Bueno/PROPN
+NP pesar/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP la/DET primera/ADJ opinión/NOUN
+NP sus/DET discos/NOUN
+NP This/PROPN left/PROPN feels/PROPN right/PROPN
+NP último/ADJ disco/NOUN
+NP la/DET venta/NOUN
+NP el/DET grupo/NOUN
+NP los/DET 80/NOUN
+NP encontrarse/PROPN
+NP un/DET disco/NOUN
+NP ritmos/NOUN
+NP las/DET canciones/NOUN
+NP una/DET vez/NOUN
+NP este/DET disco/NOUN
+NP vez/NOUN
+NP cuenta/NOUN
+NP otros/DET discos/NOUN
+NP un/DET principio/NOUN
+NP un/DET disco/NOUN
+NP acústico/NOUN
+NP el/DET álbum/NOUN
+NP llamarse/PROPN
+NP Strums/PROPN As/PROPN You/PROPN Are/PROPN
+NP el/DET nombre/NOUN
+NP This/PROPN Left/PROPN Feels/PROPN Right/PROPN
+NP el/DET resultado/NOUN
+NP una/DET descomposición/NOUN
+NP temas/NOUN
+NP sus/DET bases/NOUN
+NP un/DET sentido/NOUN
+NP un/DET sonido/NOUN
+NP un/DET principio/NOUN
+NP temas/NOUN
+NP Last/PROPN Man/PROPN Standing/PROPN
+NP Thief/PROPN of/PROPN Hearts/PROPN
+NP final/NOUN
+NP Las/DET canciones/NOUN
+NP este/DET nuevo/ADJ disco/NOUN
+NP WANTED/PROPN DEAD/PROPN OR/PROPN
+NP ALIVELIVIN/NOUN
+NP PRAYERBAD/PROPN
+NP MEDICINEIT/NOUN
+NP 'S/PROPN MY/PROPN LIFELAY/PROPN YOUR/PROPN
+NP HANDS/NOUN
+NP ON/NOUN
+NP MAN/PROPN STANDINGYOU/PROPN
+NP GIVE/NOUN
+NP BAD/PROPN NAMEBED/PROPN
+NP OF/ADJ ROSESEVERYDAYBORN/NOUN
+NP
+  TO/PROPN
+  BE/PROPN
+  MY/PROPN
+  BABYKEEP/PROPN
+  THE/PROPN
+  FAITHI'LL/PROPN
+  BE/PROPN
+NP THERE/NOUN
+NP FOR/PROPN
+NP OF/PROPN
+NP cada/DET canción/NOUN
+NP WANTED/PROPN DEAD/PROPN OR/PROPN ALIVE/PROPN
+NP La/DET nueva/ADJ versión/NOUN
+NP Wanted/PROPN
+NP or/PROPN Alive/PROPN
+NP el/DET sabor/NOUN
+NP guitarras/NOUN
+NP sonidos/NOUN
+NP Distorsión/PROPN
+NP guitarras/NOUN
+NP sonidos/NOUN
+NP LIVING/NOUN
+NP ON/PROPN
+NP PRAYER/PROPN
+NP El/DET resultado/NOUN
+NP esta/DET canción/NOUN
+NP una/DET mezcla/NOUN
+NP la/DET grabación/NOUN
+NP Prayer/PROPN
+NP la/DET voz/NOUN
+NP la/DET mujer/NOUN
+NP Pat/PROPN Leonard/PROPN
+NP la/DET postre/NOUN
+NP la/DET falta/NOUN
+NP los/DET coros/NOUN
+NP Richie/PROPN Sambora/PROPN
+NP BAD/PROPN
+NP Psicodélico/PROPN
+NP La/DET voz/NOUN
+NP Jon/PROPN
+NP unos/DET coros/NOUN
+NP Richie/PROPN
+NP La/DET guitarra/NOUN
+NP el/DET sintetizados/NOUN
+NP el/DET tema/NOUN
+NP estribillo/NOUN
+NP cancion/PROPN
+NP MY/PROPN LIFE/PROPN
+NP La/DET balada/NOUN
+NP album/NOUN
+NP una/DET balada/NOUN
+NP piano/NOUN
+NP violín/PROPN
+NP Sentida/PROPN
+NP un/DET dramatismo/NOUN
+NP un/DET tema/NOUN
+NP su/DET versión/NOUN
+NP un/DET grito/NOUN
+NP un/DET gran/ADJ resultado/NOUN
+NP LAY/PROPN YOR/PROPN
+NP HANDS/NOUN
+NP ON/PROPN ME/PROPN
+NP Étnica/PROPN
+NP la/DET vuelta/NOUN
+NP medida/NOUN
+NP el/DET tema/NOUN
+NP los/DET coros/NOUN
+NP un/DET tema/NOUN
+NP alguna/DET tribu/NOUN
+NP un/DET grupo/NOUN
+NP UB40/PROPN
+NP YOU/PROPN
+NP GIVE/NOUN
+NP LOVE/PROPN
+NP BAD/PROPN NAME/PROPN
+NP Divertida/PROPN
+NP un/DET sonido/NOUN
+NP jazz/NOUN
+NP un/DET contrabajo/NOUN
+NP La/DET voz/NOUN
+NP Jon/PROPN
+NP un/DET disco/NOUN
+NP su/DET intención/NOUN
+NP la/DET voz/NOUN
+NP ocasiones/NOUN
+NP BED/PROPN
+NP una/DET sintetizador/NOUN
+NP lugar/NOUN
+NP típico/ADJ piano/NOUN
+NP David/PROPN Bryan/PROPN
+NP mismas/DET pautas/NOUN
+NP su/DET día/NOUN
+NP el/DET tema/NOUN
+NP estudio/NOUN
+NP Prayer/PROPN
+NP It´s/PROPN My/PROPN life/PROPN
+NP una/DET balada/NOUN
+NP violín/NOUN
+NP sintetizador/NOUN
+NP zafarse/PROPN
+NP la/DET canción/NOUN
+NP BORN/NOUN
+NP TO/PROPN BE/PROPN MY/PROPN
+NP BABY/NOUN
+NP Temazo/NOUN
+NP Un/DET gran/ADJ tema/NOUN
+NP pesar/NOUN
+NP Born/PROPN to/PROPN Be/PROPN My/PROPN Baby/PROPN
+NP acústico/NOUN
+NP This/PROPN Left/PROPN
+NP un/DET temazo/NOUN
+NP Medio/ADJ tiempo/NOUN
+NP voces/NOUN
+NP Richie/PROPN
+NP un/DET toque/NOUN
+NP KEEP/PROPN THE/PROPN FAITH/PROPN
+NP Acústico/PROPN
+NP violines/NOUN
+NP una/DET oración/NOUN
+NP una/DET canción/NOUN
+NP BE/PROPN
+NP THERE/NOUN
+NP FOR/PROPN YOU/PROPN
+NP piano/NOUN
+NP un/DET tema/NOUN
+NP un/DET grupo/NOUN
+NP Soul/PROPN
+NP tipo/NOUN
+NP All4one/PROPN
+NP Bon/PROPN Jovi/PROPN
+NP este/DET tema/NOUN
+NP estandarte/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP los/DET bártulos/NOUN
+NP mi/DET gusto/NOUN
+NP el/DET tema/NOUN
+NP solo/NOUN
+NP ALWAYS/NOUN
+NP Floja/PROPN
+NP La/DET voz/NOUN
+NP Jon/PROPN
+NP los/DET extremos/NOUN
+NP pop/NOUN
+NP forma/NOUN
+NP Segundas/DET partes/NOUN
+NP este/DET caso/NOUN
+NP definitiva/NOUN
+NP un/DET disco/NOUN
+NP ritmos/NOUN
+NP las/DET canciones/NOUN
+NP los/DET fanáticos/NOUN
+NP los/DET comienzos/NOUN
+NP grupo/NOUN
+NP una/DET barbaridad/NOUN
+NP canciones/NOUN
+NP Bad/PROPN Medicine/PROPN
+NP Born/PROPN to/PROPN be/PROPN my/PROPN baby/PROPN
+NP la/DET pena/NOUN
+NP escucharlo/PROPN
+NP Cd/PROPN
+NP un/DET DVD/NOUN
+NP el/DET despiste/NOUN
+NP algunos/DET datos/NOUN
+NP http/NOUN
+NP www.iespana.escrushmagazine2003/PROPN
+NP DVD/PROPN
+NP el/DET disco/NOUN
+NP un/DET mini/ADJ concierto/NOUN
+NP el/DET día/NOUN
+NP diciembre/NOUN
+NP canciones/NOUN
+NP Este/DET chico/NOUN
+NP la/DET fama/NOUN
+NP poquitos/NOUN
+NP años/NOUN
+NP gracias/NOUN
+NP su/DET facilidad/NOUN
+NP el/DET rap/NOUN
+NP letras/NOUN
+NP ritmos/NOUN
+NP comenzo/PROPN
+NP su/DET disco/NOUN
+NP infinity/PROPN
+NP 2º/PROPN
+NP cd/NOUN
+NP Infinity/PROPN ´/PROPN
+NP is/PROPN
+NP slim/PROPN shady/PROPN
+NP sus/DET letras/NOUN
+NP metia/NOUN
+NP algun/NOUN
+NP otro/DET insulto/NOUN
+NP spice/PROPN girls/PROPN
+NP un/DET contexto/NOUN
+NP contra/NOUN
+NP los/DET homosexuales/NOUN
+NP mas/PROPN
+NP ´/PROPN Marshall/PROPN matters/PROPN
+NP Este/DET ultimo/NOUN
+NP cd/NOUN
+NP los/DET mejores/ADJ rapeadores/NOUN
+NP momento/NOUN
+NP sus/DET letras/NOUN
+NP la/DET verdad/NOUN
+NP la/DET cumbre/NOUN
+NP Slim/PROPN Shady/PROPN
+NP su/DET manera/NOUN
+NP un/DET lado/NOUN
+NP tanta/DET gracia/NOUN
+NP Britney/PROPN Spears/PROPN
+NP Christina/PROPN Aguilera/PROPN
+NP video/PROPN clip/PROPN
+NP niñas/NOUN
+NP creidas/NOUN
+NP :]/NOUN
+NP este/DET chico/NOUN
+NP el/DET mundo/NOUN
+NP su/DET musica/NOUN
+NP mas/PROPN
+NP su/DET personalidad/NOUN
+NP Ademas/NOUN
+NP los/DET españoles/NOUN
+NP mas/PROPN
+NP las/DET letras/NOUN
+NP mas/PROPN
+NP sus/DET ritmos/NOUN
+NP colaboraciones/NOUN
+NP mas/PROPN
+NP famosos/ADJ raperos/NOUN
+NP momento/NOUN
+NP Dr/PROPN
+NP Dre/NOUN
+NP Snoop/PROPN dog/PROPN
+NP cantantes/NOUN
+NP otros/DET paises/NOUN
+NP Dido/PROPN
+NP rap/NOUN
+NP tu/PROPN cd/PROPN
+NP duda/NOUN
+NP desperdicio/NOUN
+NP el/DET momento/NOUN
+NP este/DET grupo/NOUN
+NP gracias/NOUN
+NP la/DET gala/NOUN
+NP Eurovision/PROPN
+NP otro/DET disco/NOUN
+NP la/DET estética/NOUN
+NP POP/PROPN
+NP sonidos/NOUN
+NP empalagosillos/NOUN
+NP super/PROPN guays/PROPN
+NP super/PROPN
+NP pijos/NOUN
+NP un/DET huevo/NOUN
+NP las/DET letras/NOUN
+NP temas/NOUN
+NP el/DET punto/NOUN
+NP vista/NOUN
+NP San/PROPN Valentín/PROPN
+NP quieres/NOUN
+NP ala/NOUN
+NP Las/DET canciones/NOUN
+NP hola/NOUN
+NP primera/ADJ vez/NOUN
+NP Galletas/PROPN
+NP Chicle/PROPN
+NP canciones/NOUN
+NP shibuya/PROPN
+NP Bonus/PROPN track/PROPN
+NP Tang/PROPN
+NP naranja/PROPN
+NP colajet/NOUN
+NP limon/PROPN
+NP la/DET reedición/NOUN
+NP disco/NOUN
+NP precio/NOUN
+NP las/DET canciones/NOUN
+NP bajáis/NOUN
+NP LEGALMENTE/PROPN
+NP querais/PROPN
+NP ala/NOUN
+NP esta/DET música/NOUN
+NP lo/DET retro/NOUN
+NP colegas/NOUN
+NP AAAAAAAAAAAAAAAdios/PROPN
+NP otra/DET vez/NOUN
+NP KISS/PROPN
+NP Mi/DET grupo/NOUN
+NP Este/DET disco/NOUN
+NP 1980/NOUN
+NP la/DET consolidación/NOUN
+NP la/DET línea/NOUN
+NP la/DET banda/NOUN
+NP éxito/NOUN
+NP Dynasty/PROPN
+NP Kiss/PROPN
+NP misma/DET línea/NOUN
+NP el/DET estilo/NOUN
+NP productor/NOUN
+NP Vinnie/PROPN Poncia/PROPN
+NP El/DET resultado/NOUN
+NP un/DET disco/NOUN
+NP Kiss/PROPN
+NP buen/ADJ disco/NOUN
+NP veces/NOUN
+NP facilón/PROPN
+NP Kiss/PROPN
+NP sonidos/NOUN
+NP estilos/NOUN
+NP guitarrista/NOUN
+NP Ace/PROPN Frehley/PROPN
+NP la/DET banda/NOUN
+NP la/DET gira/NOUN
+NP Unmasked/PROPN
+NP las/DET promociones/NOUN
+NP album/PROPN
+NP The/PROPN Elder/PROPN
+NP siquiera/NOUN
+NP el/DET estudio/NOUN
+NP Unmasked/PROPN
+NP El/DET disco/NOUN
+NP Is/PROPN that/PROPN you/PROPN
+NP Paul/PROPN Stanley/PROPN
+NP Un/DET tema/NOUN
+NP la/DET historia/NOUN
+NP kiss/PROPN
+NP pena/NOUN
+NP gloria/NOUN
+NP La/DET voz/NOUN
+NP Stanley/PROPN
+NP el/DET sonido/NOUN
+NP Shandi/PROPN
+NP convertirse/PROPN
+NP was/PROPN made/PROPN for/PROPN loving/PROPN you/PROPN
+NP una/DET canción/NOUN
+NP alguna/DET vez/NOUN
+NP Kiss/PROPN
+NP directo/NOUN
+NP Paul/PROPN
+NP la/DET guitarra/NOUN
+NP bateria/NOUN
+NP La/DET canción/NOUN
+NP la/DET producción/NOUN
+NP
+  What/PROPN
+  makes/PROPN
+  the/PROPN
+  world/PROPN
+  go/PROPN
+  round/PROPN
+NP un/DET tema/NOUN
+NP Paul/PROPN Stanley/PROPN
+NP un/DET estribillo/NOUN
+NP disco/NOUN
+NP esta/DET canción/NOUN
+NP poco.Talk/PROPN
+NP guitarrista/NOUN
+NP Ace/PROPN Frehley/PROPN
+NP el/DET mejor/ADJ tema/NOUN
+NP disco/NOUN
+NP esta/DET canción/NOUN
+NP el/DET video/NOUN
+NP un/DET buen/ADJ video/NOUN
+NP éxito/NOUN
+NP la/DET gira/NOUN
+NP Unmasked/PROPN
+NP la/DET voz/NOUN
+NP Ace/PROPN
+NP la/DET perfección/NOUN
+NP la/DET línea/NOUN
+NP Naked/PROPN
+NP city/NOUN
+NP la/DET primera/ADJ canción/NOUN
+NP la/DET sale/NOUN
+NP el/DET bajista/NOUN
+NP Gene/PROPN Simmons/PROPN
+NP un/DET tema/NOUN
+NP ningún/DET interés/NOUN
+NP Torpedo/PROPN girl/PROPN
+NP Ace/PROPN Frehley/PROPN
+NP un/DET riff/NOUN
+NP un/DET tema/NOUN
+NP estilo/NOUN
+NP Ace/PROPN
+NP La/DET canción/NOUN
+NP Tomorrow/PROPN
+NP Paul/PROPN Stanley/PROPN
+NP un/DET buen/ADJ tema/NOUN
+NP la/DET línea/NOUN
+NP
+  What/PROPN
+  makes/PROPN
+  the/PROPN
+  world/PROPN
+  go/PROPN
+  round/PROPN
+NP un/DET estribillo/NOUN
+NP Two/PROPN
+NP sides/NOUN
+NP of/PROPN the/PROPN coin/PROPN
+NP Ace/PROPN Frehley/PROPN
+NP buen/ADJ tema/NOUN
+NP El/DET riff/NOUN
+NP el/DET ritmo/NOUN
+NP Ace/PROPN
+NP pocas/DET veces/NOUN
+NP She/PROPN
+NP Simmons/PROPN
+NP un/DET tema/NOUN
+NP Una/DET línea/NOUN
+NP Charisma/PROPN
+NP disco/NOUN
+NP útlimas/ADJ canciones/NOUN
+NP Easy/PROPN as/PROPN it/PROPN seems/PROPN
+NP You're/PROPN all/PROPN that/PROPN
+NP want/PROPN
+NP el/DET único/ADJ disco/NOUN
+NP Kiss/PROPN
+NP las/DET mejores/ADJ canciones/NOUN
+NP las/DET escritas/NOUN
+NP Paul/PROPN Stanley/PROPN
+NP Ace/PROPN Frehley/PROPN
+NP el/DET éxito/NOUN
+NP álbum/NOUN
+NP guitarrista/NOUN
+NP miembros/NOUN
+NP Kiss/PROPN
+NP un/DET disco/NOUN
+NP canciones/NOUN
+NP Paul/PROPN
+NP poperas/NOUN
+NP grandes/ADJ temas/NOUN
+NP Las/DET canciones/NOUN
+NP Simmons/PROPN
+NP Peter/PROPN Criss/PROPN
+NP este/DET album/NOUN
+NP definitiva/NOUN
+NP un/DET buen/ADJ album/NOUN
+NP la/DET línea/NOUN
+NP Kiss/PROPN
+NP Olvídate/PROPN
+NP buscas/PROPN hard/PROPN rock/PROPN
+NP tu/NOUN
+NP caso/NOUN
+NP Creatures/PROPN of/PROPN The/PROPN night/PROPN
+NP unos/DET años/NOUN
+NP La/DET portada/NOUN
+NP un/DET comic/NOUN
+NP la/DET historia/NOUN
+NP Kiss/PROPN
+NP punto/NOUN
+NP maquillaje/NOUN
+NP los/DET fans/NOUN
+NP el/DET disco/NOUN
+NP Lick/PROPN
+NP Up/PROPN
+NP los/DET años/NOUN
+NP qué/DET aspecto/NOUN
+NP los/DET chicos/NOUN
+NP Kiss/PROPN
+NP Saludos/NOUN
+NP gracias/NOUN
+NP mucha/DET gente/NOUN
+NP CD/PROPN
+NP canciones/NOUN
+NP la/DET banda/NOUN
+NP etc.pero/PROPN
+NP la/DET pena/NOUN
+NP canciones/NOUN
+NP pesar/NOUN
+NP Guns/PROPN
+NP propio/DET estilo/NOUN
+NP las/DET canciones/NOUN
+NP diversos/DET temas/NOUN
+NP ritmos/NOUN
+NP baladas/NOUN
+NP super/NOUN
+NP romanticas/NOUN
+NP canciones/NOUN
+NP estilo/NOUN
+NP pretty/PROPN tied/PROPN up/PROPN
+NP one/PROPN
+NP million/PROPN
+NP Ademas/PROPN
+NP agregado/NOUN
+NP las/DET canciones/NOUN
+NP Duff/PROPN
+NP el/DET bajista/NOUN
+NP Axl/PROPN
+NP ej/PROPN
+NP raw/PROPN power/PROPN
+NP attitude/PROPN
+NP new/PROPN rose/PROPN
+NP alguna/DET mas/NOUN
+NP tambien/NOUN
+NP fin/NOUN
+NP opinion/PROPN
+NP propia/DET opinion/NOUN
+NP las/DET cosas/NOUN
+NP muchas/DET veces/NOUN
+NP la/DET gente/NOUN
+NP jajajaja/PROPN
+NP mentira/PROPN
+NP escuchenlo/PROPN
+NP razon/PROPN
+NP taaaaan/PROPN
+NP Disco/PROPN
+NP la/DET banda/NOUN
+NP la/DET película/NOUN
+NP mismo/DET título/NOUN
+NP Prince/PROPN
+NP continuación/NOUN
+NP Purple/PROPN Rain/PROPN
+NP heterogéneo/NOUN
+NP propios/DET temas/NOUN
+NP temas/NOUN
+NP The/PROPN Time/PROPN
+NP Mavis/PROPN Staples/PROPN
+NP ejemplo/NOUN
+NP forma/NOUN
+NP Prince/PROPN
+NP la/DET presencia/NOUN
+NP Tevin/PROPN Campbell/PROPN
+NP algún/DET disco/NOUN
+NP la/DET mano/NOUN
+NP Quincy/PROPN Jones/PROPN
+NP pena/NOUN
+NP gloria/NOUN
+NP mala/ADJ elección/NOUN
+NP la/DET hora/NOUN
+NP padrino.Se/PROPN
+NP un/DET disco/NOUN
+NP el/DET mercado/NOUN
+NP los/DET medios/NOUN
+NP comunicación/NOUN
+NP buenas/ADJ canciones/NOUN
+NP Thieves/PROPN
+NP the/PROPN Temple.En/PROPN
+NP un/DET buen/ADJ disco/NOUN
+NP admiradores/NOUN
+NP Prince/PROPN
+NP Hola/PROPN
+NP tanto/DET tiempo/NOUN
+NP el/DET título/NOUN
+NP la/DET opinión/NOUN
+NP Blink/PROPN
+NP esa/DET banda/NOUN
+NP una/DET vez/NOUN
+NP hablé/NOUN
+NP una/DET banda/NOUN
+NP la/DET etapa/NOUN
+NP la/DET rebeldía/NOUN
+NP el/DET comercio/NOUN
+NP una/DET imagen/NOUN
+NP el/DET camino/NOUN
+NP una/DET nueva/ADJ clase/NOUN
+NP música/NOUN
+NP llamarse/NOUN
+NP Punk/PROPN Progresivo/PROPN
+NP este/DET disco/NOUN
+NP una/DET imagen/NOUN
+NP un/DET tanto/NOUN
+NP SIN/PROPN SER/PROPN GRUNGE/PROPN
+NP armonías/NOUN
+NP creativas/NOUN
+NP bases/NOUN
+NP percusión/NOUN
+NP el/DET tiempo/NOUN
+NP los/DET compases/NOUN
+NP melodías/NOUN
+NP pegadizas/NOUN
+NP las/DET típicas/ADJ partes/NOUN
+NP el/DET bajo/NOUN
+NP la/DET batería/NOUN
+NP los/DET coros/NOUN
+NP partes/NOUN
+NP la/DET orquestación/NOUN
+NP cada/DET tema/NOUN
+NP las/DET curiosidades/NOUN
+NP la/DET grabación/NOUN
+NP este/DET disco/NOUN
+NP el/DET lugar/NOUN
+NP una/DET casa/NOUN
+NP el/DET único/ADJ fin/NOUN
+NP la/DET grabación/NOUN
+NP el/DET dicho/NOUN
+NP a/PROPN
+NP fuego/NOUN
+NP lento/PROPN
+NP un/DET momento/NOUN
+NP la/DET familia/NOUN
+NP hogar/NOUN
+NP ganas/NOUN
+NP su/DET casa/NOUN
+NP unos/DET meses/NOUN
+NP otro/DET lugar/NOUN
+NP el/DET año/NOUN
+NP este/DET tiempo/NOUN
+NP algunos/DET contratiempos/NOUN
+NP ventajosos/NOUN
+NP mi/DET parecer/NOUN
+NP Travis/PROPN
+NP el/DET baterista/NOUN
+NP su/DET amada/NOUN
+NP esposa/NOUN
+NP su/DET primer/ADJ hijo/NOUN
+NP seguro/NOUN
+NP anti/PROPN
+NP forma/NOUN
+NP otros/DET puntos/NOUN
+NP vista/NOUN
+NP la/DET mano/NOUN
+NP Travis/PROPN
+NP su/DET banda/NOUN
+NP Hip/PROPN
+NP gira/NOUN
+NP ausentarse/PROPN
+NP grabadas/ADJ buenas/ADJ bases/NOUN
+NP batería/NOUN
+NP las/DET cuerdas/NOUN
+NP la/DET grabación/NOUN
+NP disco/NOUN
+NP Travis/PROPN
+NP mucho/DET talento/NOUN
+NP las/DET grabaciones/NOUN
+NP un/DET tanto/NOUN
+NP Hip/PROPN
+NP otros/DET detalles/NOUN
+NP Ryan/PROPN Hewirr.·Cuenta/PROPN
+NP la/DET voz/NOUN
+NP Robert/PROPN Smith/PROPN
+NP The/PROPN Cure/PROPN
+NP tema/NOUN
+NP último/ADJ tema/NOUN
+NP vivo/NOUN
+NP Chicago/PROPN
+NP este/DET disco/NOUN
+NP timbres/NOUN
+NP esta/DET clase/NOUN
+NP música/NOUN
+NP el/DET sintetizador/NOUN
+NP el/DET teclado/NOUN
+NP flangers/PROPN
+NP demás/DET efectos/NOUN
+NP el/DET tema/NOUN
+NP un/DET discurso/NOUN
+NP una/DET dama/NOUN
+NP creo/PROPN
+NP Septiembre/PROPN
+NP este/DET disco/NOUN
+NP un/DET material/NOUN
+NP felicidad/PROPN
+NP discos/NOUN
+NP armonías/NOUN
+NP letras/NOUN
+NP demás/DET sentimientos/NOUN
+NP la/DET típica/ADJ imagen/NOUN
+NP anteriormente.·EL/PROPN
+NP libro/NOUN
+NP disco/NOUN
+NP una/DET excelente/ADJ fotografía/NOUN
+NP cada/DET letra/NOUN
+NP canción/NOUN
+NP una/DET ortografía/NOUN
+NP la/DET descripción/NOUN
+NP los/DET temas/NOUN
+NP FEELING/NOUN
+NP THIS/PROPN
+NP Este/DET tema/NOUN
+NP hacerse/PROPN
+NP video/PROPN
+NP un/DET estribillo/NOUN
+NP una/DET noche/NOUN
+NP la/DET batería/NOUN
+NP el/DET uso/NOUN
+NP cencerro/NOUN
+NP virtuosos/ADJ ritmos/NOUN
+NP coros/NOUN
+NP cada/DET verso/NOUN
+NP el/DET estribillo/NOUN
+NP batería/NOUN
+NP este/DET tema/NOUN
+NP escenas/NOUN
+NP las/DET estrofas/NOUN
+NP tornándose/NOUN
+NP sentimental/PROPN
+NP el/DET estribillo/NOUN
+NP habla/NOUN
+NP las/DET letras/NOUN
+NP el/DET disco/NOUN
+NP OBVIOUS/NOUN
+NP comienzo/NOUN
+NP medio/NOUN
+NP compleja/ADJ batería/NOUN
+NP un/DET engaño/NOUN
+NP una/DET visión/NOUN
+NP el/DET tema/NOUN
+NP Tom/PROPN
+NP esa/DET sensación/NOUN
+NP depresión/NOUN
+NP cólera/NOUN
+NP MISS/PROPN YOU/PROPN
+NP el/DET nombre/NOUN
+NP esta/DET canción/NOUN
+NP Mark/PROPN
+NP cuenta/NOUN
+NP matiz/PROPN
+NP felicidad/NOUN
+NP una/DET tristeza/NOUN
+NP anhelo/NOUN
+NP distorsión/NOUN
+NP un/DET simple/ADJ juego/NOUN
+NP cuerdas/NOUN
+NP la/DET canción/NOUN
+NP mas/PROPN
+NP viaje/NOUN
+NP el/DET regreso/NOUN
+NP desdén/NOUN
+NP la/DET felicidad/NOUN
+NP VIOLENCE/PROPN
+NP destacada/ADJ introducción/NOUN
+NP la/DET batería/NOUN
+NP estribillo/NOUN
+NP un/DET juego/NOUN
+NP voces/NOUN
+NP volumen/NOUN
+NP un/DET estribillo/NOUN
+NP armonía/NOUN
+NP El/DET tema/NOUN
+NP sentimiento/NOUN
+NP subirse/PROPN
+NP un/DET escenario/NOUN
+NP violencia/NOUN
+NP más./PROPN
+NP STOCKHOLM/PROPN
+NP SÍNDROME/NOUN
+NP la/DET canción/NOUN
+NP el/DET discurso/NOUN
+NP su/DET finalización/NOUN
+NP mismo/DET track/NOUN
+NP un/DET tema/NOUN
+NP coros/NOUN
+NP Feeling/PROPN This/PROPN
+NP un/DET buen/ADJ uso/NOUN
+NP la/DET batería/NOUN
+NP una/DET estructura/NOUN
+NP discos/NOUN
+NP DOWN/NOUN
+NP Sinceramente/PROPN
+NP la/DET letra/NOUN
+NP la/DET ortografía/NOUN
+NP la/DET necesidad/NOUN
+NP presencia/NOUN
+NP mala/PROPN
+NP you/PROPN so/PROPN bad/PROPN
+NP Travis/PROPN
+NP cielo/NOUN
+NP la/DET batería/NOUN
+NP sus/DET motivos/NOUN
+NP un/DET sonido/NOUN
+NP la/DET batería/NOUN
+NP Atípico/PROPN
+NP el/DET final/NOUN
+NP la/DET batería/NOUN
+NP repente/NOUN
+NP el/DET siguiente/ADJ tema/NOUN
+NP FALLEN/NOUN
+NP INTERLUDE/PROPN
+NP una/DET tríada/NOUN
+NP Hip/PROPN
+NP Hop/PROPN
+NP un/DET tema/NOUN
+NP su/DET totalidad/NOUN
+NP lo/DET últimos/ADJ segundos/NOUN
+NP Down/NOUN
+NP down/NOUN
+NP down/PROPN
+NP my/PROPN falling/PROPN
+NP GO/NOUN
+NP un/DET tema/NOUN
+NP punk/NOUN
+NP un/DET buen/ADJ juego/NOUN
+NP voces/NOUN
+NP los/DET estribillos/NOUN
+NP batería/NOUN
+NP perfectos/ADJ tresillos/NOUN
+NP un/DET final/NOUN
+NP cuanto/NOUN
+NP las/DET cuerdas/NOUN
+NP armonía/NOUN
+NP los/DET interludios/NOUN
+NP silencios/NOUN
+NP cuanto/NOUN
+NP la/DET letra/NOUN
+NP un/DET pingo/NOUN
+NP una/DET pelea/NOUN
+NP la/DET música/NOUN
+NP Otro/DET tema/NOUN
+NP música/NOUN
+NP esperanza/NOUN
+NP Un/DET interludio/NOUN
+NP el/DET juego/NOUN
+NP preguntas/PROPN
+NP respuestas/PROPN
+NP la/DET batería/NOUN
+NP la/DET guitarra/NOUN
+NP un/DET tema/NOUN
+NP ALWAYS/NOUN
+NP un/DET tema/NOUN
+NP un/DET buen/ADJ pop/NOUN
+NP noto/NOUN
+NP la/DET presencia/NOUN
+NP Robert/PROPN Smith/PROPN
+NP el/DET final/NOUN
+NP un/DET juego/NOUN
+NP palillos/NOUN
+NP la/DET simple/ADJ armonía/NOUN
+NP cuerdas/NOUN
+NP la/DET llegada/NOUN
+NP la/DET voz/NOUN
+NP Los/DET coros/NOUN
+NP la/DET batería/NOUN
+NP voces/NOUN
+NP muchos/DET arreglos/NOUN
+NP segundas/ADJ guitarras/NOUN
+NP la/DET composición/NOUN
+NP el/DET uso/NOUN
+NP sintetizadores/NOUN
+NP un/DET toque/NOUN
+NP pop/NOUN
+NP La/DET letra/NOUN
+NP una/DET apasionada/ADJ relación/NOUN
+NP mas/PROPN
+NP las/DET ganas/NOUN
+NP volverse/NOUN
+NP tiempo/NOUN
+NP EASY/PROPN TARGET/PROPN
+NP un/DET tema/NOUN
+NP cierta/DET agresividad/NOUN
+NP la/DET voz/NOUN
+NP coros/NOUN
+NP percusión/NOUN
+NP cuerdas/NOUN
+NP hacerse/PROPN
+NP coros/NOUN
+NP varios/DET temas/NOUN
+NP cuanto/NOUN
+NP la/DET letra/NOUN
+NP las/DET decisiones/NOUN
+NP una/DET chica/NOUN
+NP porqué/NOUN
+NP blanco/PROPN fácil./PROPN
+NP ALL/PROPN OF/PROPN THIS/PROPN
+NP fin/NOUN
+NP el/DET tema/NOUN
+NP Robert/PROPN Smith/PROPN
+NP un/DET tema/NOUN
+NP medio/PROPN
+NP mucha/DET importancia/NOUN
+NP la/DET armonía/NOUN
+NP la/DET guitarra/NOUN
+NP el/DET hecho/NOUN
+NP los/DET tonos/NOUN
+NP la/DET voz/NOUN
+NP un/DET sintetizador/NOUN
+NP la/DET percusión/NOUN
+NP batería/NOUN
+NP palmas/NOUN
+NP El/DET tema/NOUN
+NP una/DET relación/NOUN
+NP canta/PROPN
+NP otra/DET persona/NOUN
+NP ee/PROPN
+NP dela/PROPN tristeza/PROPN
+NP el/DET tema/NOUN
+NP HERES/PROPN YOUR/PROPN LETTER/PROPN
+NP Tema/NOUN
+NP rebeldía/NOUN
+NP punk/NOUN
+NP estrofas/NOUN
+NP batería/NOUN
+NP guitarra/NOUN
+NP stacatto/PROPN
+NP La/DET letra/NOUN
+NP una/DET ortografía/NOUN
+NP el/DET marco/NOUN
+NP el/DET disco/NOUN
+NP IM/ADJ LOST/NOUN
+NP WITHOUT/NOUN
+NP el/DET título/NOUN
+NP una/DET canción/NOUN
+NP letra/NOUN
+NP talvez/NOUN
+NP los/DET temas/NOUN
+NP ANTHEM/PROPN PART/PROPN TWO/PROPN
+NP Live/PROPN
+NP Chicago/PROPN
+NP el/DET tema/NOUN
+NP otro/DET disco/NOUN
+NP las/DET típicas/ADJ melodías/NOUN
+NP la/DET compañía/NOUN
+NP semicorcheas/NOUN
+NP sea/NOUN
+NP la/DET batería/NOUN
+NP una/DET buena/ADJ estructura/NOUN
+NP total/NOUN
+NP silencios/NOUN
+NP interludios/NOUN
+NP Sincera/PROPN
+NP un/DET tema/NOUN
+NP dejarte/NOUN
+NP las/DET ganas/NOUN
+NP tanto/NOUN
+NP fin/NOUN
+NP Blink/PROPN
+NP el/DET final/NOUN
+NP disco/NOUN
+NP estilos/NOUN
+NP mencioné/PROPN
+NP un/DET principio/NOUN
+NP un/DET progreso/NOUN
+NP el/DET punk/NOUN
+NP su/DET opinión/NOUN
+NP saludos/NOUN
+NP chau/PROPN
+NP el/DET nuevo/ADJ disco/NOUN
+NP Jennifer/PROPN López/PROPN
+NP JLO/PROPN
+NP su/DET anterior/ADJ trabajo/NOUN
+NP un/DET gran/ADJ número/NOUN
+NP canciones/NOUN
+NP inglés/NOUN
+NP español/NOUN
+NP un/DET disco/NOUN
+NP canciones/NOUN
+NP Los/DET ritmos/NOUN
+NP Jennifer/PROPN
+NP una/DET buena/ADJ voz/NOUN
+NP escucharlo/PROPN
+NP Jennifer/PROPN
+NP un/DET gran/ADJ futuro/NOUN
+NP el/DET mundo/NOUN
+NP la/DET música/NOUN
+NP duda/NOUN
+NP la/DET pena/NOUN
+NP un/DET gran/ADJ disco/NOUN
+NP los/DET mejores/ADJ albumes/NOUN
+NP la/DET banda/NOUN
+NP critica/PROPN
+NP despues/NOUN
+NP back/PROPN
+NP black/PROPN
+NP su/DET obra/NOUN
+NP la/DET critica/NOUN
+NP mas/PROPN
+NP un/DET pedazo/NOUN
+NP album/NOUN
+NP solo/NOUN
+NP esta/DET banda/NOUN
+NP mi/DET discoteca/NOUN
+NP lo/DET aprecio/NOUN
+NP proque/PROPN
+NP un/DET gran/ADJ sonido/NOUN
+NP una/DET gran/ADJ fuerza/NOUN
+NP pesar/NOUN
+NP los/DET años/NOUN
+NP el/DET album/NOUN
+NP duda/NOUN
+NP podria/PROPN considerarse/PROPN
+NP un/DET clasico/NOUN
+NP el/DET clasico/NOUN
+NP grupo/NOUN
+NP el/DET back/NOUN
+NP black/PROPN
+NP la/DET ocasion/NOUN
+NP escucharlo/PROPN
+NP este/DET disco/NOUN
+NP Blow/PROPN Up/PROPN Your/PROPN Video/PROPN
+NP la/DET voz/NOUN
+NP Brian/PROPN Johnson/PROPN
+NP un/DET disco/NOUN
+NP el/DET segundo/ADJ álbum/NOUN
+NP el/DET batería/NOUN
+NP Simon/PROPN Wright/PROPN
+NP El/DET disco/NOUN
+NP la/DET canción/NOUN
+NP nombre/NOUN
+NP disco/NOUN
+NP Fly/PROPN On/PROPN The/PROPN Wall/PROPN
+NP Shake/PROPN Your/PROPN Foundations/PROPN
+NP aye/PROPN
+NP estribillo/NOUN
+NP First/PROPN Blood/PROPN
+NP una/DET canción/NOUN
+NP Fly/PROPN On/PROPN The/PROPN Wall/PROPN tembién/PROPN
+NP otros/DET extraodinarios/NOUN
+NP Danger/PROPN
+NP Sink/PROPN The/PROPN Pink/PROPN
+NP el/DET recopiltorio/NOUN
+NP Who/PROPN Made/PROPN Who/PROPN
+NP Las/DET canciones/NOUN
+NP unos/DET riffs/NOUN
+NP marchosos/NOUN
+NP solo/NOUN
+NP Malcom/PROPN
+NP un/DET simple/ADJ comentario/NOUN
+NP inocente/ADJ grupo/NOUN
+NP música/NOUN
+NP sus/DET correspondientes/ADJ críticas/NOUN
+NP nada/NOUN
+NP señores/ADJ habitantes/NOUN
+NP esta/DET comunidad/NOUN
+NP antemano/NOUN
+NP NIRVANA/PROPN
+NP los/DET mejores/ADJ grupos/NOUN
+NP la/DET historia/NOUN
+NP la/DET música/NOUN
+NP parte/NOUN
+NP ojos/NOUN
+NP el/DET corazón/NOUN
+NP este/DET grupo/NOUN
+NP un/DET pequeño/ADJ niño/NOUN
+NP este/DET grupo/NOUN
+NP TV/NOUN
+NP muertos/NOUN
+NP escusa/NOUN
+NP este/DET grandioso/ADJ grupo/NOUN
+NP mi/DET timpanao/NOUN
+NP el/DET resto/NOUN
+NP mi/DET vida/NOUN
+NP este/DET album/NOUN
+NP esta/DET opinión/NOUN
+NP podria/NOUN
+NP mi/DET dedicatoria/NOUN
+NP la/DET discografía/NOUN
+NP
+  BLEACH1989NEVERMIND1991INCESTICIDE1992IN/PROPN
+  UTERO1993UNPLUGGED/PROPN
+  IN/PROPN
+  NEW/PROPN
+  YORK1994FROM/PROPN
+  THE/PROPN
+  MUDDY/PROPN
+NP OF/PROPN THE/PROPN
+NP canciones/NOUN
+NP internet/PROPN
+NP medios/NOUN
+NP P2P/PROPN
+NP ningun/PROPN
+NP disco/NOUN
+NP Este/DET grupo/NOUN
+NP la/DET música/NOUN
+NP fuerzas/NOUN
+NP sus/DET temazos/NOUN
+NP los/DET conciertos/NOUN
+NP sus/DET discos/NOUN
+NP la/DET droga/NOUN
+NP sus/DET conciertos/NOUN
+NP video/PROPN
+NP heroina/NOUN
+NP el/DET cuello/NOUN
+NP el/DET escenario/NOUN
+NP Kurt/PROPN Cobain/PROPN
+NP artista/NOUN
+NP grupo/NOUN
+NP la/DET música/NOUN
+NP hecho/NOUN
+NP alguna/DET gente/NOUN
+NP la/DET rencarnación/NOUN
+NP Cristo/PROPN
+NP tenia/PROPN
+NP una/DET forma/NOUN
+NP convicción/NOUN
+NP un/DET humilde/ADJ crio/NOUN
+NP un/DET poema/NOUN
+NP la/DET música/NOUN
+NP propio/DET dinero/NOUN
+NP la/DET muerte/NOUN
+NP las/DET drogas/NOUN
+NP una/DET carta/NOUN
+NP sus/DET familiares/NOUN
+NP un/DET trozo/NOUN
+NP la/DET carta/NOUN
+NP la/DET letra/NOUN
+NP hipotesis/NOUN
+NP su/DET mujer/NOUN
+NP una/DET escopeta/NOUN
+NP el/DET maldito/ADJ dinero/NOUN
+NP una/DET estrella/NOUN
+NP la/DET musica/NOUN
+NP señor@s/PROPN
+NP este/DET grupo/NOUN
+NP una/DET oportunidad/NOUN
+NP vuestros/NOUN
+NP dejad/PROPN
+NP paso/NOUN
+NP la/DET alfombra/NOUN
+NP la/DET discografía/NOUN
+NP sus/DET canciones/NOUN
+NP TODAS.Un/PROPN
+NP gran/ADJ saludo/NOUN
+NP los/DET miembros/NOUN
+NP nuestra/DET comunidad/NOUN
+NP La/DET unica/ADJ ola/NOUN
+NP calor/NOUN
+NP Madrid/PROPN
+NP estos/DET días/NOUN
+NP Rihanna/PROPN
+NP su/DET último/ADJ temazo/NOUN
+NP Umbrella/PROPN
+NP la/DET carrera/NOUN
+NP esta/DET chica/NOUN
+NP años/NOUN
+NP la/DET isla/NOUN
+NP Barbados/PROPN
+NP un/DET cazatalentos/NOUN
+NP la/DET zona/NOUN
+NP CD/PROPN
+NP nivel/NOUN
+NP Good/PROPN Girl/PROPN Gone/PROPN Bad/PROPN
+NP Europa/PROPN
+NP número/NOUN
+NP sus/DET antiguos/ADJ discos/NOUN
+NP canCiones/PROPN
+NP pon/PROPN the/PROPN
+NP S.O.S./PROPN
+NP las/DET mejores/ADJ artistas/NOUN
+NP momento/NOUN
+NP cuanto/NOUN
+NP ritmo/NOUN
+NP bailes/NOUN
+NP videos/NOUN
+NP voz/NOUN
+NP todo/DET talento/NOUN
+NP su/DET exito/NOUN
+NP Veamos/PROPN
+NP este/DET disco/NOUN
+NP una/DET opinión/NOUN
+NP compañero/NOUN
+NP Este/DET trabajo/NOUN
+NP Manson/PROPN
+NP su/DET antecesor/NOUN
+NP Holy/PROPN wood/PROPN
+NP un/DET sonido/NOUN
+NP voces/NOUN
+NP guitarras/NOUN
+NP nuevos/ADJ caminos/NOUN
+NP la/DET banda/NOUN
+NP Resident/PROPN Evil/PROPN
+NP los/DET sonidos/NOUN
+NP mismo/DET estilo/NOUN
+NP Atmósferas/DET terroríficas/NOUN
+NP penetrantes/NOUN
+NP la/DET mejor/ADJ película/NOUN
+NP terror/NOUN
+NP sonidos/NOUN
+NP mas/PROPN
+NP pintado/NOUN
+NP furiosas/NOUN
+NP ahogarse/PROPN
+NP rock/NOUN
+NP Antichrist/PROPN
+NP nuevos/ADJ sonidos/NOUN
+NP ritmos/NOUN
+NP este/DET disco/NOUN
+NP la/DET evolución/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP falta/NOUN
+NP imaginación/NOUN
+NP canciones/NOUN
+NP This/PROPN is/PROPN the/PROPN new/PROPN shit/PROPN
+NP The/PROPN Golden/PROPN age/PROPN of/PROPN
+NP grotesque/NOUN
+NP Spade/PROPN
+NP la/DET estética/NOUN
+NP Manson/PROPN
+NP la/DET canción/NOUN
+NP unos/DET gustos/NOUN
+NP este/DET cantante/NOUN
+NP vosotros/NOUN
+NP la/DET música/NOUN
+NP el/DET heavy/NOUN
+NP el/DET rock/NOUN
+NP vosotros/NOUN
+NP espera/NOUN
+NP Manson/PROPN
+NP vosotros/NOUN
+NP el/DET disco/NOUN
+NP comparación/NOUN
+NP buscabais/PROPN
+NP un/DET solo/ADJ estilo/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP este/DET trabajo/NOUN
+NP entrada/NOUN
+NP tan/NOUN
+NP solo/NOUN
+NP intentad/NOUN
+NP tal/NOUN
+NP disfrutad/NOUN
+NP su/DET nuevo/ADJ trabajo/NOUN
+NP la/DET pena/NOUN
+NP Saludos/NOUN
+NP los/DET años/NOUN
+NP aparecio/NOUN
+NP nuestro/DET mundo/NOUN
+NP una/DET pareja/NOUN
+NP hermanos/NOUN
+NP Joaquin/PROPN
+NP Lucia/PROPN
+NP ciertas/DET lecciones/NOUN
+NP esposos/NOUN
+NP unas/DET letras/NOUN
+NP diccion/PROPN
+NP voz/NOUN
+NP Lucia/PROPN
+NP una/DET voz/NOUN
+NP soprano/NOUN
+NP el/DET unico/ADJ tema/NOUN
+NP una/DET tercera/ADJ persona/NOUN
+NP Dyango/PROPN
+NP padre/NOUN
+NP Jordi/PROPN
+NP Marcos/PROPN Llunas/PROPN
+NP Ese/DET hombre/NOUN
+NP una/DET especie/NOUN
+NP enfrentamiento/NOUN
+NP hombres/NOUN
+NP un/DET triangulo/NOUN
+NP fin/NOUN
+NP funcion/PROPN
+NP ese/DET tipo/NOUN
+NP musica/NOUN
+NP letras/NOUN
+NP musica/NOUN
+NP el/DET ritmo/NOUN
+NP balada/NOUN
+NP este/DET nuevo/ADJ trabajo/NOUN
+NP mismo/DET estilo/NOUN
+NP mucho/DET tiempo/NOUN
+NP la/DET musica/NOUN
+NP sus/DET parejas/NOUN
+NP Meses/PROPN
+NP meses/NOUN
+NP rigor/NOUN
+NP verdad/NOUN
+NP mis/DET antiguas/ADJ opiniones/NOUN
+NP xD/NOUN
+NP la/DET borda/NOUN
+NP cuanto/NOUN
+NP clic/NOUN
+NP el/DET botón/NOUN
+NP esta/DET opinión/NOUN
+NP mi/DET lado/NOUN
+NP cierto/DET fanatismo/NOUN
+NP otra/DET manera/NOUN
+NP líneas/NOUN
+NP el/DET grupo/NOUN
+NP momento/NOUN
+NP la/DET sensación/NOUN
+NP año/NOUN
+NP TOKIO/PROPN HOTEL!¿Por/PROPN
+NP un/DET mes/NOUN
+NP una/DET ingente/ADJ cantidad/NOUN
+NP lecturas/NOUN
+NP cualquier/DET zona/NOUN
+NP ávidas/NOUN
+NP cualquier/DET detalle/NOUN
+NP alguna/DET sorpresa/NOUN
+NP el/DET acontecimiento/NOUN
+NP año/NOUN
+NP ese/DET conjunto/NOUN
+NP artistas/NOUN
+NP el/DET número/NOUN
+NP estudiantes/NOUN
+NP idiomas/NOUN
+NP Península/PROPN
+NP discos/NOUN
+NP alemán/NOUN
+NP Alemania/PROPN
+NP disco/NOUN
+NP inglés/NOUN
+NP híbrido/NOUN
+NP predecesores/NOUN
+NP las/DET canciones/NOUN
+NP Europa/PROPN
+NP rendida/NOUN
+NP sus/DET pies/NOUN
+NP el/DET día/NOUN
+NP junio/NOUN
+NP directo/NOUN
+NP España/PROPN
+NP esos/DET conciertos/NOUN
+NP moda/NOUN
+NP cuanto/NOUN
+NP el/DET verano/NOUN
+NP MTV/PROPN Day/PROPN
+NP esta/DET ocasión/NOUN
+NP cartel/NOUN
+NP otros/DET artistas/NOUN
+NP la/DET talla/NOUN
+NP El/DET sueño/NOUN
+NP Morfeo/PROPN
+NP Melendi/PROPN
+NP Nena/PROPN
+NP 5ª/PROPN Estación/PROPN
+NP Mikel/PROPN Erentxun/PROPN
+NP Natasha/PROPN Bedingfield/PROPN
+NP afirmarse/PROPN
+NP un/DET escaso/ADJ porcentaje/NOUN
+NP error/NOUN
+NP una/DET cuarta/ADJ parte/NOUN
+NP los/DET asistentes/NOUN
+NP gran/ADJ medida/NOUN
+NP la/DET idea/NOUN
+NP estos/DET chicos/NOUN
+NP años/NOUN
+NP edad/NOUN
+NP años/NOUN
+NP su/DET aparición/NOUN
+NP el/DET espectáculo/NOUN
+NP la/DET media/NOUN
+NP éxito/NOUN
+NP un/DET grupo/NOUN
+NP chicos/NOUN
+NP alemanes/NOUN
+NP canciones/NOUN
+NP estética/NOUN
+NP un/DET grupo/NOUN
+NP chicos/NOUN
+NP España/PROPN
+NP tal/DET número/NOUN
+NP ventas/NOUN
+NP una/DET calidad/NOUN
+NP talento/NOUN
+NP paso/NOUN
+NP paso/NOUN
+NP características:¤/PROPN Imagen/PROPN
+NP una/DET especial/ADJ atención/NOUN
+NP estilismo/NOUN
+NP cada/DET componente/NOUN
+NP grupo/NOUN
+NP un/DET factor/NOUN
+NP la/DET hora/NOUN
+NP un/DET producto/NOUN
+NP la/DET atención/NOUN
+NP un/DET público/NOUN
+NP cada/DET vez/NOUN
+NP exigente.¤/PROPN Conjunto/PROPN
+NP jóvenes/NOUN
+NP agrupación/NOUN
+NP menor/ADJ atractivo/NOUN
+NP cualquier/DET caso/NOUN
+NP la/DET masiva/ADJ afluencia/NOUN
+NP target/NOUN
+NP sus/DET conciertos/NOUN
+NP tratarse/NOUN
+NP los/DET mayores/ADJ sectores/NOUN
+NP compra/NOUN
+NP música/NOUN
+NP el/DET mercado/NOUN
+NP duda/NOUN
+NP el/DET vocalista/NOUN
+NP un/DET prototipo/NOUN
+NP un/DET icono/NOUN
+NP belleza/NOUN
+NP personalidad/NOUN
+NP destacada.¤/PROPN
+NP Buen/ADJ trabajo/NOUN
+NP márketing/NOUN
+NP diseño/NOUN
+NP creación/NOUN
+NP un/DET logo/NOUN
+NP una/DET marca/NOUN
+NP libreasociación/NOUN
+NP ideas/NOUN
+NP Tokio/PROPN
+NP Alemania/PROPN
+NP Letras/NOUN
+NP alemán/NOUN
+NP otras/DET ocasiones/NOUN
+NP su/DET paso/NOUN
+NP fronteras/NOUN
+NP hacerse/PROPN
+NP otros/DET países/NOUN
+NP este/DET caso/NOUN
+NP impulso/NOUN
+NP su/DET carrera/NOUN
+NP la/DET gente/NOUN
+NP exotismo/NOUN
+NP esa/DET apariencia/NOUN
+NP jóvenes/NOUN
+NP nuevas/ADJ ideas/NOUN
+NP el/DET mercado/NOUN
+NP el/DET título/NOUN
+NP inglés/NOUN
+NP el/DET mercado/NOUN
+NP música/NOUN
+NP excelencia.¤/PROPN
+NP unas/DET buenas/ADJ canciones/NOUN
+NP letras/NOUN
+NP inglés/NOUN
+NP pues/NOUN
+NP el/DET conjunto/NOUN
+NP estos/DET detalles/NOUN
+NP factor/NOUN
+NP X/NOUN
+NP suerte/NOUN
+NP estos/DET chicos/NOUN
+NP inglés/NOUN
+NP nuestro/DET país/NOUN
+NP el/DET mercado/NOUN
+NP un/DET grupo/NOUN
+NP artistas/NOUN
+NP hacerse/PROPN
+NP un/DET hueco/NOUN
+NP los/DET artistas/NOUN
+NP las/DET bases/NOUN
+NP una/DET legión/NOUN
+NP fans/NOUN
+NP perderse/PROPN
+NP concierto/NOUN
+NP territorio/NOUN
+NP solo/NOUN
+NP los/DET singles/NOUN
+NP su/DET último/ADJ disco/NOUN
+NP el/DET cuarto/NOUN
+NP espacio/NOUN
+NP las/DET ondas/NOUN
+NP personajes/NOUN
+NP dudoso/ADJ talento/NOUN
+NP mucha/DET promoción/NOUN
+NP resumidas/ADJ líneas/NOUN
+NP esas/DET opiniones/NOUN
+NP las/DET canciones/NOUN
+NP este/DET álbum/NOUN
+NP la/DET boca/NOUN
+NP los/DET ojos/NOUN
+NP platos/NOUN
+NP Scream.1.-/PROPN Scream/PROPN [/PROPN 3:17]"Schrei/PROPN
+NP alemán/NOUN
+NP español/NOUN
+NP un/DET diccionario/NOUN
+NP mano/NOUN
+NP el/DET tarareo/NOUN
+NP Madres/NOUN
+NP padres/NOUN
+NP mundo/NOUN
+NP esta/DET ocasión/NOUN
+NP oro/NOUN
+NP este/DET álbum/NOUN
+NP vuestrosas/NOUN
+NP mes/NOUN
+NP Escuela/PROPN Oficial/PROPN
+NP Idiomas/PROPN
+NP inglés/NOUN
+NP pese/NOUN
+NP este/DET álbum/NOUN
+NP inglés/NOUN
+NP Nein/PROPN
+NP esta/DET canción/NOUN
+NP simpre/PROPN
+NP la/DET curiosidad/NOUN
+NP tal/NOUN
+NP tema/NOUN
+NP su/DET lengua/NOUN
+NP origen/NOUN
+NP definitiva/NOUN
+NP el/DET tema/NOUN
+NP los/DET idiomas/NOUN
+NP un/DET single/NOUN
+NP fuerza/NOUN
+NP una/DET plaza/NOUN
+NP toros/NOUN
+NP contundencia/NOUN
+NP Scream/PROPN
+NP una/DET batería/NOUN
+NP un/DET chavalín/NOUN
+NP años/NOUN
+NP un/DET currículum/NOUN
+NP la/DET experiencia/NOUN
+NP una/DET forma/NOUN
+NP Un/DET temazo/NOUN
+NP la/DET primera/ADJ canción/NOUN
+NP título/NOUN
+NP álbum/NOUN
+NP Estribillo:"Scream/PROPN
+NP Scream/PROPN
+NP you/PROPN
+NP Scream/PROPN
+NP And/PROPN when/PROPN
+NP hurts/PROPN you/PROPN
+NP Scream/PROPN
+NP out/PROPN
+NP Puntuación/NOUN
+NP Ready/PROPN
+NP [/PROPN
+NP la/DET duración/NOUN
+NP las/DET canciones/NOUN
+NP grandes/ADJ sorpresas/NOUN
+NP nivel/NOUN
+NP desarrollo/NOUN
+NP la/DET canción/NOUN
+NP un/DET ritmo/NOUN
+NP color/NOUN
+NP rotundidad/NOUN
+NP esta/DET busca/NOUN
+NP un/DET tono/NOUN
+NP una/DET velocidad/NOUN
+NP susurro/PROPN
+NP algunas/DET partes/NOUN
+NP su/DET vez/NOUN
+NP la/DET voz/NOUN
+NP cantante/NOUN
+NP el/DET sonido/NOUN
+NP guitarra/PROPN
+NP La/DET voz/NOUN
+NP Bill/PROPN
+NP el/DET vocalista/NOUN
+NP tratarse/NOUN
+NP un/DET álbum/NOUN
+NP estudio/NOUN
+NP aparatos/NOUN
+NP maravillas/NOUN
+NP directo/NOUN
+NP un/DET gallo/NOUN
+NP un/DET grito/NOUN
+NP tono/NOUN
+NP berridos/ADJ camuflados/NOUN
+NP Estribillo:"Ready/PROPN
+NP set/NOUN
+NP
+  's/PROPN
+  time/PROPN
+  to/PROPN
+  run/PROPN
+  The/PROPN
+  sky/PROPN
+  is/PROPN
+  changing/PROPN
+NP we/PROPN are/PROPN one/PROPN
+NP Together/PROPN we/PROPN can/PROPN make/PROPN
+NP While/PROPN the/PROPN world/PROPN is/PROPN crashin/PROPN
+NP Don't/PROPN you/PROPN turn/PROPN around/PROPN
+NP Puntuación/PROPN
+NP Monsoon/PROPN [/PROPN 4:01]Ya/PROPN
+NP esos/DET momentos/NOUN
+NP el/DET momento/NOUN
+NP pararse/PROPN
+NP la/DET canción/NOUN
+NP inmediato/NOUN
+NP nuestro/DET reproductor/NOUN
+NP el/DET botón/NOUN
+NP esa/DET canción/NOUN
+NP dulce/NOUN
+NP destrozarme/NOUN
+NP mi/DET prestigio/NOUN
+NP crítico/NOUN
+NP la/DET entona/NOUN
+NP la/DET canta/NOUN
+NP las/DET palabras/NOUN
+NP monsoon/PROPN
+NP you/PROPN
+NP world/PROPN
+NP end/PROPN of/PROPN time/PROPN
+NP night/PROPN and/PROPN day/PROPN
+NP monzón/PROPN
+NP su/DET ritmo/NOUN
+NP sus/DET notas/NOUN
+NP buen/ADJ saber/NOUN
+NP la/DET canción/NOUN
+NP este/DET texto/NOUN
+NP la/DET fantasía/NOUN
+NP esta/DET canción/NOUN
+NP un/DET puñado/NOUN
+NP palabras/NOUN
+NP Estribillo:"Running/PROPN through/PROPN the/PROPN monsoon/PROPN
+NP
+  Beyond/PROPN
+  the/PROPN
+  world/PROPN
+  To/PROPN
+  the/PROPN
+  end/PROPN
+  of/PROPN
+  time/PROPN
+NP
+  Where/PROPN
+  the/PROPN
+  rain/PROPN
+  won't/PROPN
+  hurt/PROPN
+  Fighting/PROPN
+  the/PROPN
+  storm/PROPN
+NP Into/PROPN the/PROPN blue/PROPN
+NP Puntuación/PROPN
+NP Love/PROPN is/PROPN
+NP [/PROPN 3:41]No/PROPN
+NP el/DET momento/NOUN
+NP esta/DET canción/NOUN
+NP las/DET canciones/NOUN
+NP Love/PROPN is/PROPN
+NP absoluto/NOUN
+NP notable/ADJ calificación/NOUN
+NP excelente/ADJ tema/NOUN
+NP estas/DET circunstancias/NOUN
+NP el/DET hilo/NOUN
+NP Monsoon/PROPN
+NP cierto/DET aire/NOUN
+NP algunas/DET notas/NOUN
+NP sus/DET manos/NOUN
+NP frozen/PROPN hand/PROPN
+NP sus/DET ojitos/NOUN
+NP close/PROPN my/PROPN eyes/PROPN
+NP sus/DET sueños/NOUN
+NP We/PROPN lost/PROPN
+NP dream/PROPN
+NP alemán/NOUN
+NP el/DET año/NOUN
+NP la/DET matrícula/NOUN
+NP Estribillo:"We/PROPN die/PROPN when/PROPN love/PROPN is/PROPN
+NP killing/PROPN
+NP We/PROPN lost/PROPN
+NP dream/PROPN We/PROPN never/PROPN had/PROPN
+NP The/PROPN world/PROPN
+NP silence/NOUN
+NP Puntuación/PROPN
+NP Don't/PROPN jump/PROPN [/PROPN
+NP canción/NOUN
+NP ritmo/NOUN
+NP frases/NOUN
+NP la/DET voz/NOUN
+NP cantante/NOUN
+NP Los/DET instrumentos/NOUN
+NP la/DET mayor/ADJ parte/NOUN
+NP protagonismo/NOUN
+NP esta/DET vez/NOUN
+NP la/DET letra/NOUN
+NP el/DET cantante/NOUN
+NP grupo/NOUN
+NP Bill/PROPN
+NP un/DET concierto/NOUN
+NP los/DET miembros/NOUN
+NP banda:-/PROPN Bill/PROPN
+NP vocalista/NOUN
+NP septiembre/NOUN
+NP casualidad/NOUN
+NP mi/DET mes/NOUN
+NP mi/DET año/NOUN
+NP xD/NOUN
+NP Tom/PROPN
+NP el/DET guitarrista/NOUN
+NP hermano/NOUN
+NP Bill/PROPN
+NP tanto/NOUN
+NP misma/DET fecha/NOUN
+NP su/DET diferenciado/ADJ corte/NOUN
+NP pelo.-/PROPN Georg/PROPN
+NP el/DET bajista/NOUN
+NP su/DET peinado/NOUN
+NP rayita/NOUN
+NP lado/NOUN
+NP Oscar/PROPN Mayer/PROPN
+NP su/DET aspecto/NOUN
+NP rudo/NOUN
+NP norte".-/PROPN
+NP último/NOUN
+NP Gustav/PROPN
+NP 88/NOUN
+NP el/DET batería/NOUN
+NP el/DET alemán/ADJ prototipo/NOUN
+NP su/DET corte/NOUN
+NP pelo/NOUN
+NP su/DET imagen/NOUN
+NP el/DET porqué/NOUN
+NP vedle/PROPN
+NP la/DET razón/NOUN
+NP Torrente/PROPN
+NP España/PROPN cañí/PROPN
+NP la/DET batería/NOUN
+NP ganas/NOUN
+NP muchas/DET ganas/NOUN
+NP miembros/NOUN
+NP mentira/NOUN
+NP tal/DET sonido/NOUN
+NP efectos/NOUN
+NP trampa/PROPN
+NP un/DET esfuerzo/NOUN
+NP unas/DET ganas/NOUN
+NP Don't/PROPN jump/PROPN
+NP una/DET canción/NOUN
+NP tranquila/NOUN
+NP pausas/NOUN
+NP una/DET letra/NOUN
+NP emotividad/NOUN
+NP Estribillo:"I/PROPN scream/PROPN
+NP to/PROPN the/PROPN night/PROPN for/PROPN you/PROPN
+NP Don't/PROPN
+NP make/NOUN
+NP true/PROPN Don't/PROPN
+NP The/PROPN lights/PROPN will/PROPN not/PROPN
+NP you/PROPN through/PROPN They're/PROPN deceiving/PROPN you/PROPN
+NP Don't/PROPN
+NP Puntuación/PROPN
+NP On/PROPN the/PROPN edge/PROPN [/PROPN 4:07]Nanananá/PROPN
+NP el/DET ecuador/NOUN
+NP este/DET álbum/NOUN
+NP cuartos/NOUN
+NP hora/NOUN
+NP la/DET sexta/ADJ canción/NOUN
+NP esas/DET perlas/NOUN
+NP las/DET pistas/NOUN
+NP CD/PROPN
+NP sus/DET estribillos/NOUN
+NP corte/NOUN
+NP pop/ADJ -no/NOUN
+NP rock/NOUN
+NP hay-/PROPN
+NP una/DET voz/NOUN
+NP la/DET cabeza/NOUN
+NP and/PROPN more/PROPN
+NP and/PROPN more/PROPN
+NP canciones/NOUN
+NP Estribillo:"The/NOUN
+NP first/PROPN time/PROPN on/PROPN the/PROPN edge/PROPN
+NP
+  The/PROPN
+  scars/PROPN
+  will/PROPN
+  stay/PROPN
+  forever/PROPN
+  Side/PROPN
+  to/PROPN
+  side/PROPN
+  with/PROPN
+  death/PROPN
+NP
+  The/PROPN
+  moment/PROPN
+  that/PROPN
+  feels/PROPN
+  better/PROPN
+  Darkness/PROPN
+  and/PROPN
+  light/PROPN
+NP
+  Are/PROPN
+  blinding/PROPN
+  her/PROPN
+  sight/PROPN
+  She/PROPN
+  's/PROPN
+  not/PROPN
+  coming/PROPN
+  back/PROPN
+NP Not/PROPN coming/PROPN back/PROPN
+NP Puntuación/PROPN
+NP Sacred/PROPN [/PROPN
+NP minutos/NOUN
+NP reloj/NOUN
+NP esta/DET nueva/ADJ canción/NOUN
+NP carácter/NOUN
+NP sus/DET marcados/NOUN
+NP Remember/PROPN
+NP un/DET sentido/NOUN
+NP la/DET canción/NOUN
+NP su/DET punto/NOUN
+NP baja/NOUN
+NP el/DET tema/NOUN
+NP un/DET conjunto/NOUN
+NP ese/DET grito/NOUN
+NP sacred/NOUN
+NP desenlace/NOUN
+NP tema/NOUN
+NP movida/NOUN
+NP estrofas/NOUN
+NP destellos/NOUN
+NP frases/NOUN
+NP la/DET canción/NOUN
+NP I'm/PROPN sinking/PROPN
+NP Forever/PROPN you/PROPN
+NP To/PROPN
+NP
+  be/PROPN
+  forever/PROPN
+  sacred/PROPN
+  I'm/PROPN
+  dying/PROPN
+  but/PROPN
+NP
+  know/PROPN
+  our/PROPN
+  love/PROPN
+  will/PROPN
+  live/PROPN
+  Your/PROPN
+  hand/PROPN
+  above/PROPN
+  like/PROPN
+NP dove/PROPN
+NP Over/PROPN
+NP Remember/PROPN
+NP To/PROPN
+NP be/PROPN forever/PROPN sacred/PROPN
+NP Puntuación/PROPN
+NP Break/PROPN away/PROPN [/PROPN
+NP un/DET estilo/NOUN
+NP un/DET mayor/ADJ protagonismo/NOUN
+NP la/DET parte/NOUN
+NP la/DET voz/NOUN
+NP cantante/NOUN
+NP potencia/NOUN
+NP veces/NOUN
+NP un/DET segundo/ADJ plano/NOUN
+NP un/DET volumen/NOUN
+NP Un/DET tema/NOUN
+NP cortes/NOUN
+NP silencios/NOUN
+NP la/DET canción/NOUN
+NP intensidad/NOUN
+NP la/DET parte/NOUN
+NP convenga/PROPN
+NP ese/DET estribillo/NOUN
+NP la/DET batería/NOUN
+NP propia/DET letra/NOUN
+NP la/DET canción/NOUN
+NP supuesto/NOUN
+NP el/DET final/NOUN
+NP una/DET guerra/NOUN
+NP guitarra/PROPN
+NP batería/NOUN
+NP Claustrophic/PROPN here/PROPN Watch/PROPN out/PROPN
+NP Now/PROPN you/PROPN better/PROPN
+NP You/PROPN can't/PROPN
+NP Make/PROPN
+NP I'll/PROPN
+NP break/NOUN
+NP Break/PROPN
+NP Puntuación/NOUN
+NP Rescue/PROPN
+NP lucirse/PROPN
+NP Bill/PROPN
+NP la/DET luz/NOUN
+NP otra/DET faceta/NOUN
+NP su/DET voz/NOUN
+NP Rescue/PROPN
+NP la/DET perfección/NOUN
+NP ningún/DET problema/NOUN
+NP Repetitiva/PROPN
+NP la/DET frase/NOUN
+NP Rescue/PROPN
+NP la/DET canción/NOUN
+NP incontables/ADJ ocasiones/NOUN
+NP el/DET ritmo/NOUN
+NP tema/NOUN
+NP misma/DET frase/NOUN
+NP tema/NOUN
+NP un/DET grito/NOUN
+NP llamada/NOUN
+NP Otro/DET temazo/NOUN
+NP Estribillo:"Come/PROPN and/PROPN rescue/PROPN
+NP I'm/PROPN burning/PROPN can't/PROPN you/PROPN see/PROPN
+NP Come/PROPN and/PROPN
+NP Only/PROPN you/PROPN can/PROPN
+NP Come/PROPN and/PROPN
+NP Rescue/PROPN
+NP Rescue/PROPN
+NP Puntuación:91010.-/PROPN Final/PROPN day/PROPN [/PROPN
+NP fin/NOUN
+NP su/DET trabajo/NOUN
+NP la/DET canción/NOUN
+NP su/DET proyecto/NOUN
+NP un/DET tema/NOUN
+NP estilo/NOUN
+NP otra/DET nota/NOUN
+NP color/NOUN
+NP los/DET estribillos/NOUN
+NP el/DET resto/NOUN
+NP la/DET canción/NOUN
+NP un/DET ritmo/NOUN
+NP prisa/NOUN
+NP Estribillo:"Let/PROPN 's/PROPN
+NP carry/PROPN
+NP And/PROPN
+NP
+  the/PROPN
+  end/PROPN
+  has/PROPN
+  now/PROPN
+  begun/PROPN
+  Live/PROPN
+  on/PROPN
+NP Live/PROPN on/PROPN
+NP Live/PROPN on/PROPN
+NP Live/PROPN on/PROPN
+NP Puntuación/NOUN
+NP Forgotten/PROPN
+NP [/PROPN 4:37]Y/PROPN
+NP la/DET canción/NOUN
+NP la/DET canción/NOUN
+NP un/DET comienzo/NOUN
+NP guitarra/NOUN
+NP voz/NOUN
+NP esta/DET canción/NOUN
+NP situación/NOUN
+NP nombres/NOUN
+NP las/DET personas/NOUN
+NP sus/DET cadenas/NOUN
+NP esta/DET sensación/NOUN
+NP pesadumbre/PROPN
+NP observador/NOUN
+NP su/DET último/ADJ tema/NOUN
+NP una/DET prolongación/NOUN
+NP They/PROPN feel/PROPN Believe/PROPN
+NP Just/PROPN like/PROPN we/PROPN
+NP They're/PROPN laughing/PROPN
+NP And/PROPN crying/PROPN Wanna/PROPN live/PROPN
+NP Like/PROPN
+NP Puntuación/PROPN
+NP
+  By/PROPN
+  your/PROPN
+  side/PROPN
+  [/PROPN
+  4:22]"No/PROPN
+  one/PROPN
+  knows/PROPN
+  how/PROPN
+  you/PROPN
+  feel/PROPN
+NP one/PROPN
+NP you'd/PROPN like/PROPN to/PROPN see/PROPN
+NP
+  The/PROPN
+  day/PROPN
+  was/PROPN
+  dark/PROPN
+  and/PROPN
+  full/PROPN
+  of/PROPN
+  pain/PROPN
+NP el/DET hilo/NOUN
+NP la/DET anterior/ADJ canción/NOUN
+NP una/DET melodía/NOUN
+NP esta/DET última/ADJ pieza/NOUN
+NP su/DET primer/ADJ trabajo/NOUN
+NP inglés/NOUN
+NP el/DET final/NOUN
+NP fuerza/NOUN
+NP pese/NOUN
+NP esa/DET sensación/NOUN
+NP final/NOUN
+NP última/ADJ canción/NOUN
+NP CD/PROPN
+NP la/DET gente/NOUN
+NP nuevo/ADJ material/NOUN
+NP alemán/NOUN
+NP inglés/NOUN
+NP su/DET público/NOUN
+NP Estribillo:"Doesn't/PROPN
+NP Far/PROPN
+NP near/PROPN Turn/PROPN around/PROPN
+NP you/PROPN want/PROPN
+NP 's/PROPN
+NP Turn/PROPN around/PROPN
+NP Puntuación/PROPN
+NP 810Y/PROPN
+NP los/DET videoclips/NOUN
+NP la/DET canción/NOUN
+NP Monsoon/PROPN
+NP su/DET versión/NOUN
+NP otro/DET corte/NOUN
+NP pelo/NOUN
+NP el/DET cantante/NOUN
+NP mono/PROPN
+NP este/DET chico/NOUN
+NP Bill/PROPN
+NP estos/DET temas/NOUN
+NP su/DET versión/NOUN
+NP origen/NOUN
+NP el/DET grado/NOUN
+NP adulación/NOUN
+NP conocimiento/NOUN
+NP lenguas/NOUN
+NP el/DET momento/NOUN
+NP decidirse/NOUN
+NP un/DET precio/NOUN
+NP idiomas/NOUN
+NP el/DET pasado/ADJ día/NOUN
+NP Julio/PROPN
+NP algún/DET día/NOUN
+NP Zeitgeist/PROPN
+NP acaricio/NOUN
+NP lujuria/NOUN
+NP mercado/NOUN
+NP fin/NOUN
+NP años/NOUN
+NP claroscuros/NOUN
+NP la/DET disolución/NOUN
+NP 2000/NOUN
+NP la/DET banda/NOUN
+NP Billy/PROPN Corgan/PROPN
+NP tanto/DET tiempo/NOUN
+NP muchos/DET jovenzuelos/NOUN
+NP Smashing/PROPN Pumpkins/PROPN
+NP pesar/NOUN
+NP sus/DET flequillos/NOUN
+NP ritmo/NOUN
+NP grupos/NOUN
+NP grandes/ADJ influencias/NOUN
+NP otra/DET gente/NOUN
+NP siquiera/NOUN
+NP el/DET nombre/NOUN
+NP tan/NOUN
+NP siquiera/NOUN
+NP este/DET país/NOUN
+NP aquél/NOUN
+NP adiós/NOUN
+NP este/DET día/NOUN
+NP la/DET pica/NOUN
+NP perdón/NOUN
+NP detalles/NOUN
+NP la/DET indiferencia/NOUN
+NP nuestros/DET medios/NOUN
+NP comunicación/NOUN
+NP este/DET acontecimiento/NOUN
+NP estas/DET palabras/NOUN
+NP discurso/NOUN
+NP un/DET fan/NOUN
+NP tanto/NOUN
+NP habitual/ADJ notelies/NOUN
+NP sus/DET ironías/NOUN
+NP sus/DET críticas/NOUN
+NP mala/ADJ leche/NOUN
+NP serenarme/NOUN
+NP objetivo/NOUN
+NP el/DET lector/NOUN
+NP trabajo/NOUN
+NP hacerlo/PROPN
+NP El/DET nuevo/ADJ disco/NOUN
+NP Smashing/PROPN Pumpkins/PROPN
+NP el/DET confuso/ADJ panorama/NOUN
+NP una/DET propuesta/NOUN
+NP sonido/NOUN
+NP rock/NOUN
+NP los/DET 90/NOUN
+NP ciertas/DET dosis/NOUN
+NP actualización/NOUN
+NP Zeitgeist/PROPN
+NP zombie/NOUN
+NP hecho/NOUN
+NP ave/NOUN
+NP toda/NOUN
+NP regla/NOUN
+NP un/DET trabajo/NOUN
+NP nota/NOUN
+NP escucha/NOUN
+NP detalles/NOUN
+NP Iha/PROPN
+NP pérdida/NOUN
+NP sobretodo/NOUN
+NP respecto/NOUN
+NP un/DET músico/NOUN
+NP altura/NOUN
+NP aquellas/DET sensaciones/NOUN
+NP nuestros/DET estómagos/NOUN
+NP los/DET antiguos/ADJ discos/NOUN
+NP una/DET virtud/NOUN
+NP Zeitgeist/PROPN
+NP Pumpkins/PROPN
+NP total/ADJ coherencia/NOUN
+NP los/DET sonidos/NOUN
+NP sus/DET últimos/ADJ trabajos/NOUN
+NP Adore/PROPN
+NP Machina/PROPN
+NP sus/DET primeros/ADJ discos.&#9608/NOUN
+NP gramos/NOUN
+NP Historia/PROPN
+NP QUIÉNES/NOUN
+NP SMASHING/PROPN
+NP Smashing/PROPN Pumpkins/PROPN
+NP los/DET grupos/NOUN
+NP rock/NOUN
+NP los/DET 90/NOUN
+NP Su/DET carrera/NOUN
+NP Siamese/PROPN Dream/PROPN
+NP CD/PROPN
+NP
+  Mellon/PROPN
+  Collie/PROPN
+  &/PROPN
+  The/PROPN
+  Infinite/PROPN
+  Sadness/PROPN
+NP mi/DET opinión/NOUN
+NP las/DET mejores/ADJ colecciones/NOUN
+NP canciones/NOUN
+NP la/DET década/NOUN
+NP el/DET auge/NOUN
+NP rock/NOUN
+NP las/DET bandas/NOUN
+NP Seattle/PROPN
+NP un/DET movimiento/NOUN
+NP los/DET etiquetadores/NOUN
+NP la/DET época/NOUN
+NP Grunge/PROPN
+NP El/DET grupo/NOUN
+NP parte/NOUN
+NP mismas/DET influencias/NOUN
+NP sus/DET contemporáneos/NOUN
+NP rock/NOUN
+NP los/DET 70/NOUN
+NP punk/PROPN
+NP cierto/DET aire/NOUN
+NP los/DET grupos/NOUN
+NP oscurotes/NOUN
+NP los/DET 80/NOUN
+NP New/PROPN Order/PROPN
+NP Las/DET calabazas/NOUN
+NP Jimmy/PROPN Chamberlin/PROPN
+NP príncipe/NOUN
+NP redoble/NOUN
+NP James/PROPN Iha/PROPN
+NP ese/DET gran/ADJ músico/NOUN
+NP rasgos/NOUN
+NP años/NOUN
+NP el/DET peinado/NOUN
+NP emo/PROPN
+NP sus/DET peluqueros/NOUN
+NP la/DET guitarra/NOUN
+NP Wretzky/PROPN
+NP Billy/PROPN Corgan/PROPN
+NP líder/NOUN
+NP la/DET formación/NOUN
+NP su/DET guitarra/NOUN
+NP carismática/ADJ voz/NOUN
+NP pato/NOUN
+NP la/DET calva/NOUN
+NP puro/ADJ estilo/NOUN
+NP cocoliso/NOUN
+NP melena.Las/DET broncas/NOUN
+NP Corgan/PROPN
+NP ego/NOUN
+NP quisquillosismo/NOUN
+NP el/DET espacio/NOUN
+NP cambio/NOUN
+NP los/DET músicos/NOUN
+NP su/DET generación/NOUN
+NP Iha/PROPN
+NP merecido/ADJ protagonismo/NOUN
+NP los/DET líos/NOUN
+NP drogas/NOUN
+NP Chamberlin/PROPN
+NP su/DET ida/NOUN
+NP venida/NOUN
+NP grupo/NOUN
+NP varias/DET veces/NOUN
+NP la/DET segunda/ADJ mitad/NOUN
+NP la/DET década/NOUN
+NP la/DET repentina/NOUN
+NP partida/PROPN
+NP arcy/PROPN
+NP los/DET ovarios/NOUN
+NP tanta/DET historia/NOUN
+NP las/DET peleas/NOUN
+NP el/DET grupo/NOUN
+NP su/DET discográfica/NOUN
+NP Virgin/PROPN
+NP la/DET decisión/NOUN
+NP su/DET lado/NOUN
+NP los/DET años/NOUN
+NP ausencia/NOUN
+NP cuarteto/NOUN
+NP otro/DET disco/NOUN
+NP la/DET presencia/NOUN
+NP Iha/PROPN
+NP la/DET segunda/ADJ formación/NOUN
+NP A/PROPN Perfect/PROPN Circle/PROPN
+NP único/ADJ disco/NOUN
+NP Zwan/PROPN
+NP proyecto/NOUN
+NP Corgan/PROPN
+NP Chamberlin/PROPN
+NP otros/DET grandes/ADJ músicos/NOUN
+NP una/DET versión/NOUN
+NP felíz/PROPN
+NP SP/PROPN
+NP común/NOUN
+NP la/DET inconfundible/ADJ voz/NOUN
+NP Corgan/PROPN
+NP onanístico/NOUN
+NP mi/DET punto/NOUN
+NP vista/NOUN
+NP Billy/PROPN Corgan/PROPN
+NP The/PROPN Future/PROPN Embrace/PROPN
+NP los/DET seguidores/NOUN
+NP la/DET banda/NOUN
+NP una/DET reunificación/NOUN
+NP 2005/NOUN
+NP Billy/PROPN
+NP un/DET llamamiento/NOUN
+NP la/DET prensa/NOUN
+NP sus/DET excompañeros/NOUN
+NP The/PROPN Smashing/PROPN Pumkins/PROPN
+NP Chamberlin/PROPN
+NP una/DET vez/NOUN
+NP la/DET llamada/NOUN
+NP calvo/NOUN
+NP voz/NOUN
+NP pato/NOUN
+NP James/PROPN
+NP cofundador/NOUN
+NP grupo/NOUN
+NP un/DET impedimento/NOUN
+NP fin/NOUN
+NP un/DET nuevo/ADJ disco/NOUN
+NP la/DET verdad/NOUN
+NP la/DET pena/NOUN
+NP Iha/PROPN
+NP Jeff/PROPN Shroeder/PROPN
+NP The/PROPN Lassie/PROPN Foundation/PROPN
+NP bajista/NOUN
+NP el/DET cuarteto/NOUN
+NP Ginger/PROPN Reyes/PROPN
+NP Corgan/PROPN
+NP una/DET fijación/NOUN
+NP bajistas/NOUN
+NP femeninas/NOUN
+NP The/PROPN Halo/PROPN Frendlies/PROPN
+NP algunos/DET nombres/NOUN
+NP patadas/NOUN
+NP trillones/NOUN
+NP páginas/NOUN
+NP grupo/NOUN
+NP una/DET breve/ADJ búsqueda/NOUN
+NP internet.&#9608/PROPN
+NP SUENA/PROPN
+NP PASEO/PROPN
+NP DISCOAunque/PROPN
+NP Zeitgeist/PROPN
+NP un/DET disco/NOUN
+NP el/DET sentido/NOUN
+NP el/DET sonido/NOUN
+NP los/DET primeros/ADJ discos/NOUN
+NP las/DET calabazas/NOUN
+NP ambientes/NOUN
+NP Machina/PROPN
+NP 2000/NOUN
+NP Adore/PROPN
+NP fin/NOUN
+NP cabo/NOUN
+NP una/DET mezcla/NOUN
+NP rica/PROPN mezcla/PROPN
+NP Las/DET primeras/ADJ canciones/NOUN
+NP Pumpkins/PROPN
+NP un/DET aderezo/NOUN
+NP POP/PROPN
+NP algunas/DET canciones/NOUN
+NP Doomsday/PROPN Clock/PROPN
+NP intro/NOUN
+NP disco/NOUN
+NP paso/NOUN
+NP Shades/PROPN Of/PROPN Black/PROPN
+NP único/ADJ defecto/NOUN
+NP primer/ADJ tema/NOUN
+NP los/DET detalles/NOUN
+NP lo/DET largo/NOUN
+NP CD/PROPN
+NP una/DET producción/NOUN
+NP parte/NOUN
+NP Corgan/PROPN
+NP Chamberlin/PROPN
+NP otra/DET gente/NOUN
+NP renombre/NOUN
+NP Terry/PROPN Date/PROPN
+NP algunos/DET temas/NOUN
+NP un/DET sonido/NOUN
+NP escuche/PROPN rock/PROPN
+NP buenos/ADJ poemas/NOUN
+NP calvito/NOUN
+NP definitiva/NOUN
+NP buena/ADJ música/NOUN
+NP track/PROPN
+NP Bleeding/PROPN The/PROPN Orchid/PROPN
+NP revoluciones/NOUN
+NP un/DET himno/NOUN
+NP noventero/NOUN
+NP potencia/NOUN
+NP una/DET orgía/NOUN
+NP Smashing/PROPN
+NP Machina/PROPN
+NP Smashing/PROPN
+NP Mellon/PROPN Collie/PROPN
+NP cierto/ADJ toque/NOUN
+NP The/PROPN Cure/PROPN
+NP alguna/DET influencia/NOUN
+NP los/DET acordes/NOUN
+NP las/DET estrofas/NOUN
+NP la/DET lógica/NOUN
+NP pese/NOUN
+NP un/DET aire/NOUN
+NP propia/DET letra/NOUN
+NP la/DET sensación/NOUN
+NP SP/PROPN
+NP su/DET disolución/NOUN
+NP 2000/NOUN
+NP cosas/NOUN
+NP los/DET temas/NOUN
+NP disco/NOUN
+NP el/DET tracklist/NOUN
+NP la/DET contundencia/NOUN
+NP notables/ADJ canciones/NOUN
+NP oyente/NOUN
+NP sensaciones/NOUN
+NP el/DET siguiente/ADJ tema/NOUN
+NP otro/DET tono/NOUN
+NP That/PROPN 's/PROPN The/PROPN Way/PROPN
+NP My/PROPN Love/PROPN Is/PROPN
+NP una/DET canción/NOUN
+NP Mary/PROPN Star/PROPN Of/PROPN The/PROPN Sea/PROPN
+NP Zwan/PROPN
+NP Una/DET preciosa/ADJ canción/NOUN
+NP amor/NOUN
+NP melodía/NOUN
+NP ambiente/NOUN
+NP los/DET temas/NOUN
+NP Otra/DET propuesta/NOUN
+NP single/NOUN
+NP El/DET pasaje/NOUN
+NP la/DET canción/NOUN
+NP algunos/DET arreglos/NOUN
+NP la/DET guitarra/NOUN
+NP La/DET voz/NOUN
+NP Corgan/PROPN
+NP un/DET tema/NOUN
+NP El/DET primer/ADJ single/NOUN
+NP Zeitgeist/PROPN
+NP la/DET lista/NOUN
+NP reproducción/NOUN
+NP Tarantula/PROPN
+NP apertura/NOUN
+NP disco/NOUN
+NP la/DET intro/NOUN
+NP tiempo/NOUN
+NP un/DET foro/NOUN
+NP este/DET tema/NOUN
+NP presentación/NOUN
+NP Tarantula/PROPN
+NP una/DET canción/NOUN
+NP puro/ADJ rock/NOUN
+NP una/DET instrumentación/NOUN
+NP las/DET guitarras/NOUN
+NP una/DET buena/ADJ letra/NOUN
+NP mucha/DET caña/NOUN
+NP primer/ADJ single/NOUN
+NP disco/NOUN
+NP él.6/PROPN
+NP Starz/PROPN
+NP unos/DET primeros/ADJ segundos/NOUN
+NP Bullet/PROPN With/PROPN Butterfly/PROPN Wings/PROPN
+NP redobles/NOUN
+NP puro/ADJ estilo/NOUN
+NP Tonight/PROPN Tonight/PROPN
+NP la/DET voz/NOUN
+NP Corgan/PROPN
+NP los/DET coros/NOUN
+NP we/PROPN are/PROPN stars/PROPN
+NP we/PROPN are/PROPN
+NP stars/NOUN
+NP resto/NOUN
+NP grupo/NOUN
+NP un/DET principio/NOUN
+NP un/DET tema/NOUN
+NP tranquilito/NOUN
+NP La/DET estructura/NOUN
+NP Una/DET combinación/NOUN
+NP el/DET protagonista/NOUN
+NP ninguna/DET duda/NOUN
+NP la/DET voz/NOUN
+NP Corgan/PROPN
+NP las/DET guitarras/NOUN
+NP la/DET batería/NOUN
+NP Chamberlin/PROPN
+NP el/DET instrumento/NOUN
+NP Jimmy/PROPN
+NP largo/ADJ tema/NOUN
+NP Zeitgeist/PROPN
+NP United/PROPN States/PROPN
+NP un/DET auténtico/ADJ lujo/NOUN
+NP un/DET tema/NOUN
+NP minutos/NOUN
+NP poder/PROPN lucirse/PROPN
+NP personal/NOUN
+NP la/DET banda/NOUN
+NP Los/DET protagonistas/NOUN
+NP la/DET incansable/ADJ batería/NOUN
+NP Chamberlin/PROPN
+NP las/DET guitarras/NOUN
+NP otros/DET temas/NOUN
+NP disco/NOUN
+NP plan/NOUN
+NP la/DET mitad/NOUN
+NP tema/NOUN
+NP la/DET verdadera/ADJ fiesta/NOUN
+NP kilo/NOUN
+NP psicodelia/PROPN
+NP progresividad/NOUN
+NP el/DET tema/NOUN
+NP varias/DET veces/NOUN
+NP el/DET reproductor/NOUN
+NP suena/PROPN
+NP un/DET concierto/NOUN
+NP una/DET buena/ADJ canción/NOUN
+NP rock/NOUN
+NP una/DET salida/NOUN
+NP minutos/NOUN
+NP un/DET servidor/NOUN
+NP arrepentirse/PROPN
+NP cortarse/PROPN
+NP el/DET pelo/NOUN
+NP la/DET greñas/NOUN
+NP la/DET cosa/NOUN
+NP El/DET octavo/ADJ tema/NOUN
+NP Neverlost/PROPN
+NP sonido/NOUN
+NP Adore/PROPN
+NP pasajes/NOUN
+NP ligeritos/NOUN
+NP enorme/ADJ contraste/NOUN
+NP la/DET pista/NOUN
+NP algunos/DET arreglos/NOUN
+NP partes/NOUN
+NP guitarreras/NOUN
+NP ritmos/NOUN
+NP canciones/NOUN
+NP Stand/PROPN Inside/PROPN Your/PROPN Love/PROPN
+NP Machina/PROPN
+NP Chamberlin/PROPN
+NP sus/DET redobles/NOUN
+NP prota/PROPN
+NP Corgan/PROPN
+NP La/DET canción/NOUN
+NP otro/DET jueves/NOUN
+NP relajarnos/NOUN
+NP la/DET revolución/NOUN
+NP United/PROPN States/PROPN
+NP Bring/PROPN The/PROPN Light/PROPN
+NP pista/NOUN
+NP número/NOUN
+NP un/DET tema/NOUN
+NP melodías/NOUN
+NP pop/NOUN
+NP su/DET estribillo/NOUN
+NP machacón/NOUN
+NP El/DET cambio/NOUN
+NP Neverlost/PROPN
+NP esta/DET canción/NOUN
+NP mi/DET opinión/NOUN
+NP un/DET mal/ADJ tema/NOUN
+NP la/DET altura/NOUN
+NP resto/NOUN
+NP disco/NOUN
+NP Come/PROPN On/PROPN
+NP Let/PROPN
+NP Go/PROPN
+NP tema/NOUN
+NP la/DET lista/NOUN
+NP potencia/NOUN
+NP algunos/DET detalles/NOUN
+NP algunos/DET defectos/NOUN
+NP un/DET estribillo/NOUN
+NP For/PROPN God/PROPN And/PROPN Country/PROPN
+NP una/DET nueva/ADJ bajada/NOUN
+NP revoluciones/NOUN
+NP un/DET cambio/NOUN
+NP sonido/NOUN
+NP respecto/NOUN
+NP la/DET subida/NOUN
+NP importancia/NOUN
+NP la/DET línea/NOUN
+NP el/DET sintetizador/NOUN
+NP las/DET guitarras/NOUN
+NP la/DET voz/NOUN
+NP Corgan/PROPN
+NP el/DET rato/NOUN
+NP los/DET coros/NOUN
+NP sus/DET compañeros/NOUN
+NP Un/DET nuevo/ADJ estribillo/NOUN
+NP machacón/NOUN
+NP una/DET estructura/NOUN
+NP repetición/NOUN
+NP anteriores/ADJ ocasiones/NOUN
+NP un/DET tema/NOUN
+NP el/DET contraste/NOUN
+NP una/DET enorme/ADJ influencia/NOUN
+NP The/PROPN Cure/PROPN
+NP Pomp/PROPN and/PROPN Circumstances/PROPN
+NP último/ADJ track/NOUN
+NP retorno/NOUN
+NP las/DET calabazas/NOUN
+NP Billy/PROPN Corgan/PROPN
+NP Robert/PROPN Smith/PROPN
+NP The/PROPN Cure/PROPN
+NP Vangelis/PROPN
+NP unas/DET birras/NOUN
+NP una/DET especie/NOUN
+NP Himno/PROPN
+NP Cierre/PROPN
+NP pesar/NOUN
+NP el/DET resto/NOUN
+NP disco/NOUN
+NP miedo/NOUN
+NP la/DET gamba/NOUN
+NP rareza/NOUN
+NP un/DET cierre/NOUN
+NP lujo/NOUN
+NP unos/DET arreglos/NOUN
+NP new/NOUN
+NP age/PROPN
+NP prota/PROPN
+NP Corgan/PROPN
+NP coros/NOUN
+NP resto/NOUN
+NP unas/DET guitarras/NOUN
+NP Mike/PROPN Oldfield/PROPN
+NP el/DET último/ADJ tercio/NOUN
+NP tema/NOUN
+NP un/DET emocionante/NOUN
+NP la/DET experiencia/NOUN
+NP escucha.&#9608/NOUN
+NP CONCLUSIÓNComo/PROPN
+NP esta/DET ocasión/NOUN
+NP notas/NOUN
+NP cada/DET canción/NOUN
+NP días/NOUN
+NP verdad/NOUN
+NP verdad/NOUN
+NP un/DET disco/NOUN
+NP este/DET año/NOUN
+NP ninguna/DET duda/NOUN
+NP los/DET seguidores/NOUN
+NP The/PROPN Smashing/PROPN Pumpkins/PROPN
+NP un/DET miedo/NOUN
+NP sobretodo/NOUN
+NP el/DET disco/NOUN
+NP Corgan/PROPN
+NP el/DET final/NOUN
+NP disco/NOUN
+NP la/DET cosa/NOUN
+NP mismo/ADJ tiempo/NOUN
+NP Zwan/PROPN
+NP Smashing/PROPN
+NP un/DET par/NOUN
+NP temas/NOUN
+NP el/DET nivel/NOUN
+NP cosa/NOUN
+NP el/DET listón/NOUN
+NP temas/NOUN
+NP todas/DET formas/NOUN
+NP últimas/ADJ canciones/NOUN
+NP disco/NOUN
+NP pese/NOUN
+NP el/DET trabajo/NOUN
+NP su/DET conjunto/NOUN
+NP Zeitgeist/PROPN
+NP otras/DET ediciones/NOUN
+NP mismo/DET disco/NOUN
+NP mismo/DET tiempo/NOUN
+NP temas/NOUN
+NP bonus/PROPN
+NP exclusiva/NOUN
+NP ciertas/DET cadenas/NOUN
+NP distribución/NOUN
+NP lado/NOUN
+NP la/DET mayoría/NOUN
+NP minoristas/NOUN
+NP rabia/NOUN
+NP suerte/NOUN
+NP consigas/NOUN
+NP estas/DET ediciones/NOUN
+NP bonus/PROPN
+NP tu/DET tienda/NOUN
+NP suerte/NOUN
+NP paciencia/NOUN
+NP las/DET tiendas/NOUN
+NP música/NOUN
+NP la/DET venta/NOUN
+NP el/DET disco/NOUN
+NP .Conclusión/NOUN
+NP Pumpkins/PROPN
+NP recomendarte/NOUN
+NP este/DET disco/NOUN
+NP los/DET conocías/NOUN
+NP una/DET oportunidad/NOUN
+NP el/DET rock/NOUN
+NP este/DET disco/NOUN
+NP una/DET alegría/NOUN
+NP vida/NOUN
+NP Calabazas/PROPN
+NP un/DET disco/NOUN
+NP mas/PROPN
+NP bon/PROPN jovi/PROPN
+NP mas/PROPN
+NP un/DET regalo/NOUN
+NP el/DET grupo/NOUN
+NP su/DET musica/NOUN
+NP cotraposicion/PROPN
+NP ultimos/DET trabajos/NOUN
+NP crush/PROPN
+NP wild/PROPN night/PROPN
+NP bounce/PROPN
+NP este/DET disco/NOUN
+NP un/DET umplugged/NOUN
+NP emoción/NOUN
+NP cads/PROPN
+NP versión/NOUN
+NP pe/PROPN
+NP sus/DET grandes/ADJ temas/NOUN
+NP mi/DET tema/NOUN
+NP excelencia/NOUN
+NP esta/DET versión/NOUN
+NP its/PROPN my/PROPN life/PROPN enlatienda/PROPN
+NP la/DET piel/NOUN
+NP gallina/PROPN
+NP ese/DET eco/NOUN
+NP esa/DET tranquilidad/NOUN
+NP una/DET canciónque/NOUN
+NP mitica/PROPN
+NP Otra/DET sorpresa/NOUN
+NP duda/NOUN
+NP la/DET version/NOUN
+NP Everyday/PROPN
+NP canciones/NOUN
+NP distintas/ADJ ladel/ADJ bounce/NOUN
+NP esta/DET yambas/NOUN
+NP ese/DET regalo/NOUN
+NP la/DET version/NOUN
+NP ALWAYS/PROPN
+NP la/DET gran/ADJ always/NOUN
+NP aquellos/DET tiempos/NOUN
+NP Jon/PROPN
+NP conel/ADJ pelo/NOUN
+NP Undisco/PROPN
+NP los/DET amantes/NOUN
+NP bon/PROPN jovi/PROPN
+NP el/DET disco/NOUN
+NP este/PROPN
+NP veces/NOUN
+NP fin/NOUN
+NP un/DET pase/NOUN
+NP incursion/PROPN
+NP queen/PROPN
+NP el/DET mundo/NOUN
+NP la/DET musica/NOUN
+NP cine/NOUN
+NP saldo/NOUN
+NP nota.obviamente/PROPN
+NP james/PROPN
+NP musica/PROPN
+NP cine/NOUN
+NP el/DET tema/NOUN
+NP la/DET pelicula/NOUN
+NP disco/NOUN
+NP Flash/PROPN
+NP una/DET cancion/NOUN
+NP la/DET idea/NOUN
+NP pelicula.y/PROPN
+NP cancion/PROPN
+NP mas/PROPN
+NP obviamente/NOUN
+NP letra/NOUN
+NP the/PROPN hero/PROPN
+NP bien.una/PROPN
+NP cosa/NOUN
+NP exagerado/ADJ meterla/NOUN
+NP greatest/PROPN hits/PROPN
+NP fin/NOUN
+NP un/DET buen/ADJ disco/NOUN
+NP pesar/NOUN
+NP opinion/PROPN
+NP queen/PROPN
+NP un/DET estilo/NOUN
+NP musica/PROPN
+NP entoncesyo/PROPN
+NP nota/NOUN
+NP años/NOUN
+NP RHCP/PROPN
+NP un/DET disco/NOUN
+NP la/DET salida/NOUN
+NP john/PROPN frusciante/PROPN
+NP grupo/NOUN
+NP otros/DET guitarristas/NOUN
+NP La/DET presencia/NOUN
+NP Dave/PROPN Navarro/PROPN
+NP el/DET grupo/NOUN
+NP el/DET estilo/NOUN
+NP primera/ADJ vez/NOUN
+NP el/DET disco/NOUN
+NP la/DET atención/NOUN
+NP su/DET portada/NOUN
+NP su/DET estilo/NOUN
+NP la/DET contracara/NOUN
+NP el/DET disco/NOUN
+NP mas/PROPN
+NP un/DET disco/NOUN
+NP canciones/NOUN
+NP Warped/PROPN
+NP su/DET introducción/NOUN
+NP eco/NOUN
+NP la/DET parte/NOUN
+NP la/DET voz/NOUN
+NP Anthony/PROPN
+NP Flea/PROPN
+NP la/DET bateria/NOUN
+NP Chad/PROPN
+NP la/DET guitarra/NOUN
+NP opinion/PROPN
+NP Dave/PROPN
+NP Warped/PROPN
+NP disco/NOUN
+NP Aeroplane/PROPN
+NP un/DET riff/NOUN
+NP pegadizo/NOUN
+NP el/DET coro/NOUN
+NP niños/NOUN
+NP la/DET hija/NOUN
+NP Flea/PROPN
+NP Aeroplane/PROPN
+NP canción/NOUN
+NP su/DET carrera/NOUN
+NP Deep/PROPN Kick/PROPN
+NP canción/NOUN
+NP la/DET voz/NOUN
+NP Anthony/PROPN
+NP una/DET historia/NOUN
+NP el/DET minuto/NOUN
+NP una/DET guitarra/NOUN
+NP repente/NOUN
+NP Is/PROPN the/PROPN same/PROPN
+NP we/PROPN keep/PROPN moving/PROPN
+NP la/DET guitarra/NOUN
+NP estilo/NOUN
+NP Navarro/PROPN
+NP la/DET canción/NOUN
+NP la/DET voz/NOUN
+NP Flea/PROPN
+NP primera/ADJ persona/NOUN
+NP Friends/PROPN
+NP balada/NOUN
+NP decirlo/PROPN asi/PROPN
+NP álbum/NOUN
+NP la/DET letra/NOUN
+NP ese/DET momento/NOUN
+NP RHCP/PROPN
+NP la/DET canción/NOUN
+NP el/DET solo/NOUN
+NP acuerdo/NOUN
+NP la/DET canción/NOUN
+NP Coffee/PROPN Shop/PROPN
+NP Iggy/PROPN Pop/PROPN
+NP esperarse/PROPN
+NP la/DET canción/NOUN
+NP mi/PROPN
+NP su/DET notoriedad/NOUN
+NP todo/DET momento/NOUN
+NP Pea/PROPN
+NP jajaja/NOUN
+NP la/DET canción/NOUN
+NP niños/NOUN
+NP una/DET letra/NOUN
+NP ..../ADJ tendrías/NOUN
+NP Fuck/PROPN you/PROPN Asshole"Creo/PROPN
+NP One/PROPN Big/PROPN Mob/PROPN
+NP la/DET caida/NOUN
+NP álbum/NOUN
+NP decir/NOUN
+NP la/DET mitad/NOUN
+NP la/DET canción/NOUN
+NP la/DET parte/NOUN
+NP eco/NOUN
+NP este/DET disco/NOUN
+NP Dave/PROPN
+NP la/DET guitarra/NOUN
+NP bebe/PROPN
+NP su/DET estilo/NOUN
+NP Blood/PROPN Sugar/PROPN
+NP Walkabout/PROPN
+NP un/DET bajo/ADJ sonoramente/NOUN
+NP muuuuucho/PROPN mas/PROPN
+NP la/DET guitarra/NOUN
+NP La/DET canción/NOUN
+NP OHM/PROPN
+NP Tearjerker/PROPN
+NP la/DET voz/NOUN
+NP Anthony/PROPN
+NP la/DET parte/NOUN
+NP la/DET canción/NOUN
+NP La/DET canción/NOUN
+NP álbum/NOUN
+NP One/PROPN Hot/PROPN Minute/PROPN
+NP la/DET canción/NOUN
+NP mas/PROPN
+NP la/DET parte/NOUN
+NP la/DET guitarra/NOUN
+NP vez/NOUN
+NP Falling/PROPN Into/PROPN Grace/PROPN
+NP la/DET voz/NOUN
+NP una/DET mujer/NOUN
+NP Anthony/PROPN
+NP el/DET coro/NOUN
+NP la/DET parte/NOUN
+NP el/DET inicio/NOUN
+NP la/DET canción/NOUN
+NP el/DET efecto/NOUN
+NP la/DET guitara/NOUN
+NP la/DET bateria/NOUN
+NP buen/ADJ ritmo/NOUN
+NP el/DET disco/NOUN
+NP Shallow/PROPN Be/PROPN Thy/PROPN Game/PROPN
+NP un/DET guitarreo/NOUN
+NP el/DET ábum/NOUN
+NP el/DET cierre/NOUN
+NP Transcending/PROPN
+NP canción/NOUN
+NP estilo/NOUN
+NP Flea/PROPN
+NP la/DET guitarra/NOUN
+NP Dave/PROPN
+NP la/DET bateria/NOUN
+NP final/NOUN
+NP la/DET canción/NOUN
+NP Anthony/PROPN
+NP romperse/NOUN
+NP la/DET garganta/NOUN
+NP un/DET disco/NOUN
+NP el/DET bache/NOUN
+NP su/DET carrera/NOUN
+NP un/DET cambio/NOUN
+NP su/DET estilo/NOUN
+NP su/DET duración/NOUN
+NP minutos/NOUN
+NP ese/DET punto/NOUN
+NP esta/DET bien/NOUN
+NP CD/PROPN
+NP su/DET diseño/NOUN
+NP mas/PROPN
+NP cd/PROPN
+NP niños/NOUN
+NP rock/NOUN
+NP fan/NOUN
+NP el/DET álbum/NOUN
+NP fan/NOUN
+NP mi/DET primera/ADJ crítica/NOUN
+NP ciao/PROPN
+NP Beatle/PROPN
+NP mania/NOUN
+NP un/DET fan/NOUN
+NP cuarteto/NOUN
+NP Liverpool/PROPN
+NP la/DET ocasión/NOUN
+NP el/DET album/NOUN
+NP la/DET pelicula/NOUN
+NP convirtio/NOUN
+NP mas/PROPN
+NP heroes/NOUN
+NP mundo/NOUN
+NP la/DET cancion/NOUN
+NP Yellow/PROPN Submarine/PROPN
+NP mas/PROPN
+NP la/DET cancion/NOUN
+NP cumpleaños/NOUN
+NP dejes/NOUN
+NP la/DET oportunidad/NOUN
+NP esta/DET super/NOUN
+NP banda/NOUN
+NP los/DET temazos/NOUN
+NP mejor/ADJ grupo/NOUN
+NP la/DET historia/NOUN
+NP Paul/PROPN McCartney/PROPN
+NP esta/DET ocasión/NOUN
+NP mas/PROPN
+NP su/DET lider/NOUN
+NP John/PROPN Lennon/PROPN
+NP Nightwish/PROPN
+NP este/DET disco/NOUN
+NP Sabia/PROPN
+NP decepcionarme/NOUN
+NP ninguna/DET cancion/NOUN
+NP la/DET pena/NOUN
+NP La/DET voz/NOUN
+NP Tarja/PROPN
+NP la/DET musica/NOUN
+NP esta/DET nada/NOUN
+NP El/DET disco/NOUN
+NP su/DET calidad/NOUN
+NP un/DET sonido/NOUN
+NP mas/PROPN
+NP mas/PROPN poppy/PROPN
+NP las/DET guitarras/NOUN
+NP sitio/NOUN
+NP lado/NOUN
+NP esta/DET magnifica/NOUN
+NP un/DET trabajo/NOUN
+NP bastantes/DET intros/NOUN
+NP algunas/DET canciones/NOUN
+NP algunas/DET canciones/NOUN
+NP Lost/PROPN Nothern/PROPN Star/PROPN
+NP las/DET vocalizaciones/NOUN
+NP Tarja/PROPN
+NP The/PROPN Reing/PROPN
+NP clasicos/NOUN
+NP Nightwish/PROPN
+NP Sleeping/PROPN Sun/PROPN
+NP Alive/PROPN
+NP Genial/PROPN
+NP guitarras/NOUN
+NP Tarja/PROPN
+NP solo/NOUN
+NP La/DET considero/NOUN
+NP disco/NOUN
+NP Sing/PROPN For/PROPN
+NP Una/DET cancion/NOUN
+NP partes/NOUN
+NP un/DET gran/ADJ coro/NOUN
+NP Oasis/NOUN
+NP La/DET mayor/ADJ partede/NOUN
+NP la/DET pieza/NOUN
+NP final/NOUN
+NP cancion/PROPN
+NP finlandes/NOUN
+NP disco/NOUN
+NP Poison/PROPN
+NP Gran/ADJ cover/NOUN
+NP la/DET cancion/NOUN
+NP Alice/PROPN Cooper/PROPN
+NP conclusion/PROPN
+NP un/DET disco/NOUN
+NP seguidores/NOUN
+NP Nightwish/PROPN
+NP cualquier/DET amante/NOUN
+NP Señoras/PROPN
+NP señores/NOUN
+NP los/DET mejores/ADJ discos/NOUN
+NP Hip/PROPN
+NP los/DET tiempos/NOUN
+NP mejores/ADJ discos/NOUN
+NP la/DET pasada/ADJ década/NOUN
+NP la/DET opinión/NOUN
+NP Fingolfin/PROPN
+NP remedio/NOUN
+NP este/DET muchacho/NOUN
+NP la/DET velocidad/NOUN
+NP el/DET tocino/NOUN
+NP Beastie/PROPN Boys/PROPN
+NP un/DET grupo/NOUN
+NP heavy/PROPN
+NP power/NOUN
+NP metal/NOUN
+NP delito/NOUN
+NP Su/DET opinión/NOUN
+NP error/NOUN
+NP posibles/ADJ amantes/NOUN
+NP Hip/PROPN
+NP este/DET disco/NOUN
+NP perderse/NOUN
+NP los/DET momentos/NOUN
+NP la/DET historia/NOUN
+NP la/DET música/NOUN
+NP la/DET explosión/NOUN
+NP Sabotage/PROPN
+NP cd/PROPN
+NP la/DET riqueza/NOUN
+NP sonidos/NOUN
+NP ritmos/NOUN
+NP mc´s/PROPN
+NP este/DET disco/NOUN
+NP una/DET maravilla/NOUN
+NP mi/DET modesto/ADJ juicio/NOUN
+NP Takes/PROPN
+NP
+  Nation/PROPN
+  of/PROPN
+  Millions/PROPN
+  to/PROPN
+  Hold/PROPN
+  Us/PROPN
+  Back/PROPN
+NP Public/PROPN Enemy/PROPN
+NP una/DET semana/NOUN
+NP ganas/NOUN
+NP críticas/NOUN
+NP discos/NOUN
+NP metaleros/NOUN
+NP Gracias/NOUN
+NP tod@s/PROPN
+NP l@s/NOUN
+NP ponerme/NOUN
+NP manos/NOUN
+NP la/DET obra/NOUN
+NP vosotr@s/PROPN
+NP huelga/NOUN
+NP lío/NOUN
+NP la/DET discografía/NOUN
+NP Kiss/PROPN
+NP mis/DET próximas/ADJ opiniones/NOUN
+NP los/DET discos/NOUN
+NP esta/DET mítica/ADJ banda/NOUN
+NP hard/PROPN rock/PROPN
+NP algún/DET momento/NOUN
+NP otras/DET cosas/NOUN
+NP tranquis/PROPN tod@s/PROPN
+NP los/DET discos/NOUN
+NP la/DET extensa/ADJ discografía/NOUN
+NP grupo/NOUN
+NP Unmasked/PROPN
+NP éxito/NOUN
+NP ventas/NOUN
+NP Dynasty/PROPN
+NP un/DET cambio/NOUN
+NP estilo/NOUN
+NP Kiss/PROPN
+NP la/DET fecha/NOUN
+NP Gene/PROPN Simmons/PROPN
+NP compañía/NOUN
+NP año/NOUN
+NP siguiente,1980,un/PROPN
+NP nuevo/ADJ álbum/NOUN
+NP su/DET antecesor/NOUN
+NP rock/NOUN
+NP cubo/NOUN
+NP veces/NOUN
+NP lleno/NOUN
+NP el/DET pop/NOUN
+NP amigos/NOUN
+NP esta/DET vez/NOUN
+NP la/DET cosa/NOUN
+NP los/DET fans/NOUN
+NP la/DET vida/NOUN
+NP hartarse/PROPN
+NP tanto/DET pasteleo/NOUN
+NP la/DET ausencia/NOUN
+NP material/NOUN
+NP El/DET disco/NOUN
+NP escuchas/NOUN
+NP un/DET coñazo/NOUN
+NP blandengue/PROPN
+NP muermo/PROPN total/PROPN
+NP Is/PROPN That/PROPN You/PROPN
+NP un/DET cover,la/NOUN
+NP Shandi/PROPN
+NP Tomorrow/PROPN
+NP la/DET fiestera/NOUN
+NP Tomorrow/PROPN And/PROPN Tonight/PROPN
+NP Love/PROPN Gun.El/PROPN
+NP temas/NOUN
+NP Talk/PROPN To/PROPN
+NP Naked/PROPN City/PROPN
+NP la/DET ridícula/NOUN
+NP Torpedo/PROPN Girl/PROPN
+NP final/NOUN
+NP You're/PROPN All/PROPN That/PROPN
+NP Want/PROPN
+NP Kiss/PROPN
+NP Grease/PROPN
+NP título/NOUN
+NP la/DET canción/NOUN
+NP Unmasked/PROPN catee/PROPN
+NP el/DET estatus/NOUN
+NP disco/NOUN
+NP Oro/PROPN
+NP copias/NOUN
+NP su/DET día/NOUN
+NP Misterios/NOUN
+NP rock/NOUN
+NP supongo/NOUN
+NP la/DET portada/NOUN
+NP las/DET cosas/NOUN
+NP un/DET cómic/NOUN
+NP un/DET periodista/NOUN
+NP éxito/NOUN
+NP los/DET miembros/NOUN
+NP la/DET banda/NOUN
+NP Peter/PROPN Criss/PROPN
+NP pesar/NOUN
+NP The/PROPN Cat/PROPN
+NP el/DET grupo/NOUN
+NP maquillaje/NOUN
+NP demasiada/DET portada/NOUN
+NP mi/DET parecer/NOUN
+NP un/DET disco/NOUN
+NP Kiss/PROPN
+NP discos/NOUN
+NP su/DET formación/NOUN
+NP el/DET lejano/NOUN
+NP Unmasked/PROPN
+NP diferencia/NOUN
+NP Joder/PROPN
+NP Carnival/PROPN Of/PROPN Souls/PROPN
+NP decir/NOUN
+NP Pasad/PROPN
+NP un/DET kilo/NOUN
+NP sois/PROPN fans/PROPN
+NP la/DET banda/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP mucho/DET tiempo/NOUN
+NP Cs/PROPN
+NP concierto/NOUN
+NP Respecto/NOUN
+NP este/DET album/NOUN
+NP la/DET pena/NOUN
+NP una/DET canción/NOUN
+NP una/DET versión/NOUN
+NP la/DET versión/NOUN
+NP una/DET canción/NOUN
+NP mucho/DET ritmo/NOUN
+NP el/DET cambio/NOUN
+NP La/DET primera/ADJ vez/NOUN
+NP curiosidad/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP menudo/NOUN
+NP CD/PROPN
+NP oirle/NOUN
+NP veces/NOUN
+NP las/DET canciones/NOUN
+NP La/DET verdad/NOUN
+NP peñazo/NOUN
+NP CD/PROPN
+NP mismo/DET estilo/NOUN
+NP una/DET idea/NOUN
+NP impaciencia/NOUN
+NP el/DET último/ADJ disco/NOUN
+NP The/PROPN Smashing/PROPN Pumpkins/PROPN
+NP la/DET banda/NOUN
+NP excelencia/NOUN
+NP rock/NOUN
+NP los/DET años/NOUN
+NP creador/NOUN
+NP discos/NOUN
+NP Siamese/PROPN Dream/PROPN
+NP Mellon/PROPN Collie/PROPN
+NP años/NOUN
+NP impaciencia/NOUN
+NP último/ADJ disco/NOUN
+NP grupo/NOUN
+NP álbum/NOUN
+NP La/DET sensación/NOUN
+NP Zeitgeist/PROPN
+NP alemán/NOUN
+NP el/DET espíritu/NOUN
+NP tiempo/NOUN
+NP el/DET clima/NOUN
+NP una/DET era/NOUN
+NP un/DET recopilatorio/NOUN
+NP caras/NOUN
+NP B/PROPN
+NP canciones/NOUN
+NP inconexas/PROPN
+NP la/DET influencia/NOUN
+NP diversos/DET álbums/NOUN
+NP el/DET grupo/NOUN
+NP su/DET pasadoposiblemente/NOUN
+NP el/DET motivo/NOUN
+NP el/DET álbum/NOUN
+NP Zeitgeis/PROPN
+NP la/DET sensación/NOUN
+NP BIlly/PROPN Corgan/PROPN
+NP las/DET canciones/NOUN
+NP canciones/NOUN
+NP la/DET esencia/NOUN
+NP un/DET álbum/NOUN
+NP sigiuentes/NOUN
+NP el/DET estilo/NOUN
+NP otro.Tras/PROPN
+NP Smashing/PROPN Pumpkins/PROPN
+NP Billy/PROPN
+NP grupo/NOUN
+NP el/DET éxito/NOUN
+NP el/DET pasado/NOUN
+NP miembros/NOUN
+NP ideas/NOUN
+NP Revival/PROPN
+NP el/DET grupo/NOUN
+NP el/DET pasado/NOUN
+NP NOTA/NOUN
+NP un/DET placer/NOUN
+NP mejor/ADJ bateria/NOUN
+NP años/NOUN
+NP Jimmy/PROPN Chamberlin/PROPN
+NP su/DET técnica/NOUN
+NP mitad/NOUN
+NP jazz/NOUN
+NP mitad/NOUN
+NP una/DET mente/NOUN
+NP cantidad/NOUN
+NP calidad/NOUN
+NP composiciones/NOUN
+NP Billy/PROPN Corgan/PROPN
+NP el/DET resultado/NOUN
+NP un/DET gran/ADJ grupo/NOUN
+NP rap/NOUN
+NP los/DET solo"No/NOUN
+NP ES/PROPN
+NP otra/DET cosa/NOUN
+NP niñato/NOUN
+NP este/PROPN
+NP buenos/ADJ temas/NOUN
+NP un/DET productor/NOUN
+NP unas/DET bases/NOUN
+NP mas/PROPN
+NP mal"es/PROPN
+NP su/DET dura/ADJ vida/NOUN
+NP el/DET mundo/NOUN
+NP mucha/DET gente/NOUN
+NP una/DET infancia/NOUN
+NP disco/NOUN
+NP favor/NOUN
+NP eminem/PROPN
+NP rap/NOUN
+NP la/DET moda/NOUN
+NP su/DET pelicula/NOUN
+NP empezado/NOUN
+NP el/DET buen/ADJ camino/NOUN
+NP este/DET personaje/NOUN
+NP buen/ADJ rap/NOUN
+NP EEUU/PROPN
+NP españa.paz/PROPN
+NP Hola/NOUN
+NP amigüitos/NOUN
+NP este/DET finde/NOUN
+NP casita/NOUN
+NP causa/NOUN
+NP un/DET mini/NOUN
+NP catarro/NOUN
+NP el/DET sábado/NOUN
+NP la/DET gala/NOUN
+NP apedreables/NOUN
+NP jeje/PROPN
+NP las/DET niñas/NOUN
+NP adolescentes/NOUN
+NP plena/ADJ edad/NOUN
+NP pavo/NOUN
+NP Tokio/PROPN Hotel/PROPN
+NP los/DET hermanos/NOUN
+NP Tom/PROPN
+NP Bill/PROPN Kaulitz/PROPN
+NP la/DET guitarra/NOUN
+NP la/DET voz/NOUN
+NP Tokio/PROPN Hotel/PROPN
+NP los/DET nuevos/ADJ idolos/NOUN
+NP quinceañeras/NOUN
+NP un/DET estilo/NOUN
+NP los/DET antiguos/ADJ idolos/NOUN
+NP adolescentes/NOUN
+NP los/DET años/NOUN
+NP Take/PROPN That/PROPN
+NP Backstreet/PROPN
+NP New/PROPN Kids/PROPN On/PROPN The/PROPN Block/PROPN
+NP Tokio/PROPN Hotel/PROPN
+NP cañeros/NOUN
+NP un/DET sonido/NOUN
+NP imagen/NOUN
+NP rock/NOUN
+NP El/DET rock/NOUN
+NP Kiss/PROPN
+NP Led/PROPN Zeppelin/PROPN
+NP Aerosmith/PROPN
+NP Guns/PROPN N/PROPN
+NP Roses/PROPN
+NP estos/DET niñatos/NOUN
+NP una/DET barabaridad/NOUN
+NP música/NOUN
+NP Dios/PROPN
+NP Tokio/PROPN Hotel/PROPN
+NP un/DET grupo/NOUN
+NP componentes/NOUN
+NP guitarra/PROPN
+NP bateria/NOUN
+NP voz/NOUN
+NP los/DET gemelos/NOUN
+NP Bill/PROPN
+NP Tom/PROPN
+NP Tom/PROPN
+NP la/DET guitarra/NOUN
+NP su/DET hermano/NOUN
+NP la/DET mayoria/NOUN
+NP las/DET veces/NOUN
+NP la/DET gala/NOUN
+NP Principales/PROPN
+NP Desde/NOUN
+NP decepción/NOUN
+NP un/DET artista/NOUN
+NP directo/NOUN
+NP Una/DET amiga/NOUN
+NP este/DET grupo/NOUN
+NP el/DET disco/NOUN
+NP la/DET verdad/NOUN
+NP mis/DET oidos/NOUN
+NP Canciones/NOUN
+NP sentido/NOUN
+NP traducirlas/NOUN
+NP el/DET inglés/NOUN
+NP unos/DET gallos/NOUN
+NP Jesulin/PROPN
+NP Toa/PROPN
+NP toa/NOUN
+NP toa/PROPN
+NP toaaaa/NOUN
+NP ..../PROPN
+NP el/DET disco/NOUN
+NP Scream/PROPN
+NP este/DET grupo/NOUN
+NP el/DET resto/NOUN
+NP Europa/PROPN
+NP tierras/NOUN
+NP mi/DET desde/NOUN
+NP un/DET favor/NOUN
+NP Alemania/PROPN
+NP desafine/PROPN
+NP gallos/NOUN
+NP chicos/NOUN
+NP años/NOUN
+NP la/DET farlopilla/NOUN
+NP mamá/NOUN
+NP Las/DET letras/NOUN
+NP la/DET novia/NOUN
+NP su/DET hermano/NOUN
+NP mismo/DET diablo/NOUN
+NP infierno/NOUN
+NP niños/NOUN
+NP adolescentes/NOUN
+NP la/DET estética/NOUN
+NP grupo/NOUN
+NP principio/NOUN
+NP el/DET cantante/NOUN
+NP la/DET cantante/NOUN
+NP ua/PROPN
+NP esa/DET imagen/NOUN
+NP ropa/NOUN
+NP chica/NOUN
+NP asi/PROPN
+NP estilo/NOUN
+NP Bershka/PROPN
+NP su/DET hermano/NOUN
+NP usa/PROPN
+NP camisetas/NOUN
+NP camisones/NOUN
+NP tallas/NOUN
+NP su/DET talla/NOUN
+NP el/DET bajista/NOUN
+NP el/DET bateria/NOUN
+NP una/DET imagen/NOUN
+NP fachada/NOUN
+NP Risto/PROPN Mejide/PROPN
+NP estos/DET chicos/NOUN
+NP un/DET producto/NOUN
+NP música/NOUN
+NP la/DET verdad/NOUN
+NP cadenitas/NOUN
+NP unos/DET piercing/NOUN
+NP las/DET uñas/NOUN
+NP la/DET sombra/NOUN
+NP sombra/NOUN
+NP las/DET niñas/NOUN
+NP el/DET cantante/NOUN
+NP lo/DET guapos/NOUN
+NP los/DET hombres/NOUN
+NP verdad/NOUN
+NP su/DET barbilla/NOUN
+NP su/DET cuerpo/NOUN
+NP la/DET voz/NOUN
+NP ese/DET pelanas/NOUN
+NP Espinete/PROPN
+NP esos/DET pelos/NOUN
+NP España/PROPN
+NP Playback/PROPN
+NP desde/NOUN
+NP fan/NOUN
+NP paseo/NOUN
+NP esta/DET gala/NOUN
+NP los/DET artistas/NOUN
+NP directo/NOUN
+NP las/DET canciones/NOUN
+NP el/DET disco/NOUN
+NP este/PROPN
+NP parte/NOUN
+NP la/DET cansina/NOUN
+NP Monsoon/PROPN
+NP harta/NOUN
+NP
+  escuchar:-/PROPN
+  Scream-/PROPN
+  Ready/PROPN
+  Set/PROPN
+  Go!-/PROPN
+  Monsoon-/PROPN
+  When/PROPN
+  Love/PROPN
+  is/PROPN
+  dead-/PROPN
+  Don't/PROPN
+  Jump-/PROPN
+  On/PROPN
+  The/PROPN
+  Edge-/PROPN
+  Saved-/PROPN
+  Break/PROPN
+  Away-/PROPN
+  Rescue/PROPN
+  Me-/PROPN
+  Final/PROPN
+  Day-/PROPN
+  Forgotten/PROPN
+  Children-/PROPN
+  By/PROPN
+  Your/PROPN
+  SideBueno/PROPN
+NP mi/DET opinión/NOUN
+NP los/DET fans/NOUN
+NP mi/DET punto/NOUN
+NP vista/NOUN
+NP este/DET grupo/NOUN
+NP un/DET pelo/NOUN
+NP misma/DET suerte/NOUN
+NP otros/DET idolos/NOUN
+NP quinceañeras/NOUN
+NP el/DET nombre/NOUN
+NP grupo/NOUN
+NP vida/NOUN
+NP hoteles/NOUN
+NP la/DET ciudad/NOUN
+NP Tokio/PROPN
+NP ahi/PROPN
+NP la/DET idea/NOUN
+NP llamarle/PROPN
+NP grupo/NOUN
+NP gallos/NOUN
+NP grititos/NOUN
+NP desafines/NOUN
+NP vuestro/PROPN
+NP disco/NOUN
+NP Bodrio/PROPN Hotel/PROPN
+NP Un/DET besito/NOUN
+NP gracias/NOUN
+NP leerme/NOUN
+NP Una/DET canción/NOUN
+NP la/DET saciedad/NOUN
+NP memoria/NOUN
+NP quiera/NOUN
+NP vete/NOUN
+NP mi/DET nombre/NOUN
+NP Harto/PROPN
+NP escucharlo/PROPN
+NP estos/DET hermanos/NOUN
+NP una/DET canción/NOUN
+NP su/DET puñetera/ADJ vida/NOUN
+NP una/DET opinión/NOUN
+NP buena/ADJ voz/NOUN
+NP verlos/NOUN
+NP una/DET vez/NOUN
+NP año/NOUN
+NP televisión/NOUN
+NP cuanto/NOUN
+NP cambio/NOUN
+NP canal/NOUN
+NP vete/NOUN
+NP mi/DET nombre/NOUN
+NP Fíjate/PROPN
+NP esta/DET crítica/NOUN
+NP los/DET peores/ADJ discos/NOUN
+NP Prince/PROPN
+NP superarse/PROPN
+NP cierto/DET punto/NOUN
+NP Warner/PROPN
+NP su/DET ansiada/ADJ libertad/NOUN
+NP la/DET verdad/NOUN
+NP El/DET disco/NOUN
+NP novedad/NOUN
+NP este/DET tipo/NOUN
+NP una/DET marcada/ADJ tendencia/NOUN
+NP un/DET par/NOUN
+NP temas/NOUN
+NP Had/PROPN U/PROPN
+NP Rock/PROPN Therefore/PROPN
+NP Am/PROPN
+NP final/NOUN
+NP un/DET innecesario/ADJ rap/NOUN
+NP estilo/NOUN
+NP Una/DET pena/NOUN
+NP el/DET rey/NOUN
+NP regayton/PROPN
+NP trabajo/NOUN
+NP comillas/NOUN
+NP tde/PROPN
+NP trabajo/NOUN
+NP poco.fue/PROPN escucharlo/PROPN
+NP darme/PROPN
+NP ganas/NOUN
+NP numerosos/ADJ raperos/NOUN
+NP mundo/NOUN
+NP dia/NOUN
+NP dia/NOUN
+NP el/DET regaytonero/NOUN
+NP su/DET peor/ADJ enemigo/NOUN
+NP su/DET trabajo/NOUN
+NP RAP/PROPN LATINO/PROPN
+NP desde/NOUN
+NP estados/PROPN unidos/PROPN
+NP esta/DET gente/NOUN
+NP unos/DET negratas/NOUN
+NP verdadera/ADJ musica/NOUN
+NP estos/DET copiones/NOUN
+NP una/DET burla/NOUN
+NP fin/NOUN
+NP regayton/PROPN
+NP las/DET mujeres/NOUN
+NP chinpancelleces/NOUN
+NP el/DET disco/NOUN
+NP ejem/PROPN
+NP mucha/DET demagogia/NOUN
+NP Nirvana/PROPN
+NP el/DET disco/NOUN
+NP 's/NOUN
+NP la/DET música/NOUN
+NP epoca/PROPN apaga/PROPN
+NP mi/DET opinión/NOUN
+NP una/DET banda/NOUN
+NP una/DET basura/NOUN
+NP el/DET rollo/NOUN
+NP Kurt/PROPN Cobain/PROPN
+NP un/DET tipo/NOUN
+NP siquiera/NOUN
+NP la/DET intención/NOUN
+NP la/DET guitarra/NOUN
+NP el/DET mejor/ADJ guitarrista/NOUN
+NP Nirvana/PROPN
+NP el/DET baterista/NOUN
+NP vease/PROPN Foo/PROPN Fighters.En/PROPN
+NP mi/DET particular/ADJ punto/NOUN
+NP vista/NOUN
+NP Kurt/PROPN Cobain/PROPN
+NP mas/PROPN
+NP siquiera/NOUN
+NP mi/PROPN
+NP un/DET guitarrero/NOUN
+NP acordes/NOUN
+NP músico/NOUN
+NP Este/DET disco/NOUN
+NP un/DET dolor/NOUN
+NP cabeza/NOUN
+NP Demagogia/PROPN Barata/PROPN
+NP la/DET belleza/NOUN
+NP la/DET simpleza/NOUN
+NP simpleza/NOUN
+NP la/DET música/NOUN
+NP Nirvana/PROPN
+NP the/PROPN ramones/PROPN
+NP Ludwig/PROPN Van/PROPN Beethoven/PROPN
+NP Wolfrand/PROPN Amadeus/PROPN Mozart/PROPN
+NP notas/NOUN
+NP un/DET guitarrero/NOUN
+NP acordes/NOUN
+NP mas/PROPN
+NP el/DET disco/NOUN
+NP acordes/NOUN
+NP canciones/NOUN
+NP una/DET bazofia/NOUN
+NP Lithium/PROPN
+NP Smells/PROPN Like/PROPN
+NP Spirit/PROPN
+NP puros/NOUN
+NP gritos.En/PROPN
+NP fin/NOUN
+NP rollo/NOUN
+NP creible/NOUN
+NP la/DET gente/NOUN
+NP los/DET mejores/ADJ discos/NOUN
+NP los/DET 90/NOUN
+NP Ok/PROPN computer/PROPN
+NP Radiohead/PROPN
+NP comienzas/NOUN
+NP un/DET disco/NOUN
+NP Ok/PROPN Computer/PROPN
+NP una/DET diversidad/NOUN
+NP sonidos/NOUN
+NP Nevermind/PROPN
+NP oyes/PROPN gritaderos/PROPN
+NP acordes/NOUN
+NP sonido/PROPN garage/PROPN
+NP una/DET banda/NOUN
+NP quinceañeros/NOUN
+NP Nirvana/PROPN
+NP quinceañeros/NOUN
+NP fin/NOUN
+NP mas/PROPN
+NP comparaciones/NOUN
+NP Nirvana/PROPN
+NP un/DET rollo/NOUN
+NP grandes/ADJ compositores/NOUN
+NP inclusive/PROPN llamarlo/PROPN
+NP genio/NOUN
+NP Cobain/PROPN
+NP rio/PROPN
+NP una/DET estupidez/NOUN
+NP mucha/DET demagogia/NOUN
+NP los/DET discos/NOUN
+NP ACDC/PROPN
+NP éxito/NOUN
+NP escuches/NOUN
+NP La/DET mayoria/NOUN
+NP canciones/NOUN
+NP el/DET disco/NOUN
+NP la/DET calidad/NOUN
+NP todo/DET disco/NOUN
+NP ACDC/PROPN
+NP Fly/PROPN on/PROPN the/PROPN Wall/PROPN
+NP sus/DET clásicos/NOUN
+NP esos/DET temas/NOUN
+NP historia/NOUN
+NP mella/NOUN
+NP hard/PROPN
+NP Sink/PROPN the/PROPN Pink/PROPN
+NP los/DET temas/NOUN
+NP disco/NOUN
+NP Danger/PROPN
+NP primer/ADJ momento/NOUN
+NP mi.Conclusión/NOUN
+NP un/DET disco/NOUN
+NP la/DET pena/NOUN
+NP 1200/NOUN
+NP pts/NOUN
+NP un/DET fanático/NOUN
+NP ACDC/PROPN
+NP otros/DET albumes/NOUN
+NP ACDC/PROPN
+NP este/DET invento/NOUN
+NP otras/DET opiniones/NOUN
+NP una/DET calificación/NOUN
+NP este/DET disco/NOUN
+NP una/DET enorme/ADJ ilusion/NOUN
+NP cosas/NOUN
+NP el/DET estilo/NOUN
+NP mi/DET sorpresa/NOUN
+NP un/DET disco/NOUN
+NP contenia/PROPN
+NP canciones/NOUN
+NP contexto/NOUN
+NP Aun/PROPN asi/PROPN
+NP sus/DET canciones/NOUN
+NP discos/NOUN
+NP canciones/NOUN
+NP canciones/NOUN
+NP cambio/NOUN
+NP este/DET disco/NOUN
+NP las/DET canciones/NOUN
+NP prisa/NOUN
+NP poca/DET vista/NOUN
+NP publico/NOUN
+NP definitiva/NOUN
+NP el/DET tipo/NOUN
+NP disco/NOUN
+NP unas/DET canciones/NOUN
+NP mas/PROPN
+NP maduras/NOUN
+NP vez/NOUN
+NP su/DET estilo/NOUN
+NP asi/PROPN
+NP su/DET soltura/NOUN
+NP BLink/PROPN
+NP breve/ADJ valoración/NOUN
+NP La/DET casa/NOUN
+NP un/DET grupo/NOUN
+NP saltado/NOUN
+NP la/DET popularidad/NOUN
+NP un/DET firme/ADJ candidato/NOUN
+NP eurovision/PROPN
+NP este/DET año/NOUN
+NP su/DET tema/NOUN
+NP la/DET revolucion/NOUN
+NP sexualPero/PROPN
+NP este/DET grupo/NOUN
+NP un/DET pasado/NOUN
+NP su/DET primer/ADJ disco/NOUN
+NP el/DET sonido/NOUN
+NP la/DET casa/NOUN
+NP Las/DET canciones/NOUN
+NP siguientes:01/PROPN
+NP hola/NOUN
+NP vez03/PROPN
+NP Galletas04/PROPN
+NP Chicle/PROPN cosmos05/PROPN
+NP canciones06/PROPN
+NP Shibuya08/PROPN
+NP Bonus/PROPN trackEn/PROPN
+NP una/DET posterior/ADJ reedicion/NOUN
+NP disco/NOUN
+NP canciones:09/PROPN
+NP Tang/PROPN
+NP naranja/PROPN
+NP colajet/PROPN
+NP limón/PROPN [/PROPN demo/PROPN
+NP [/PROPN demo/PROPN
+NP [/PROPN
+NP demo/NOUN
+NP Shibuya/PROPN [/PROPN demo/PROPN
+NP canciones/NOUN
+NP [/PROPN demo/PROPN
+NP Chicle/PROPN Cosmos/PROPN [/PROPN demo/PROPN
+NP hola/PROPN
+NP primera/ADJ vez/NOUN
+NP [/PROPN demo2]16/PROPN
+NP [/PROPN demo/PROPN
+NP Galletas/PROPN [/PROPN demo/PROPN 3]18/PROPN
+NP [/PROPN
+NP [/PROPN demo/PROPN
+NP la/DET ciudad/NOUN
+NP [/PROPN bonus/PROPN track]20/PROPN
+NP Chicle/PROPN
+NP cosmos/NOUN
+NP [/PROPN bonus/PROPN track]21/PROPN
+NP Tantas/DET cosas/NOUN
+NP [/PROPN bonus/PROPN track]22/PROPN
+NP hola/PROPN
+NP primera/ADJ vez/NOUN
+NP [/PROPN live]23/PROPN
+NP Shibuya/PROPN [/PROPN
+NP live]La/DET verdad/NOUN
+NP el/DET rollo/NOUN
+NP este/DET grupo/NOUN
+NP el/DET rollo/NOUN
+NP plan/NOUN
+NP pais/NOUN
+NP la/DET piruleta/NOUN
+NP su/DET apuesta/NOUN
+NP eurovision/PROPN
+NP este/DET año/NOUN
+NP su/DET estilo/NOUN
+NP su/DET disco/NOUN
+NP particularEs/PROPN
+NP un/DET grupo/NOUN
+NP ñoño/NOUN
+NP un/DET publico/NOUN
+NP su/DET apuesta/NOUN
+NP eurovisionLas/DET canciones/NOUN
+NP letras/NOUN
+NP cursis/NOUN
+NP ñoñas/NOUN
+NP las/DET canciones/NOUN
+NP mas/PROPN ñoñas/PROPN todavia/PROPN
+NP este/DET disco/NOUN
+NP el/DET disco/NOUN
+NP ACDC/PROPN
+NP pesar/NOUN
+NP La/DET verdad/NOUN
+NP este/DET disco/NOUN
+NP ACDC/PROPN
+NP su/DET momento/NOUN
+NP una/DET decepción/NOUN
+NP Tan/NOUN
+NP solo/NOUN
+NP el/DET tema/NOUN
+NP el/DET disco/NOUN
+NP &/PROPN #/PROPN 8220;Rising/PROPN power&#8221/PROPN
+NP mención/NOUN
+NP El/DET resto/NOUN
+NP nombres/NOUN
+NP tan/NOUN
+NP siquiera/NOUN
+NP la/DET portada/NOUN
+NP disco/NOUN
+NP final/NOUN
+NP El/DET tema/NOUN
+NP disco/NOUN
+NP
+  &/PROPN
+  #/PROPN
+  8220;Flick/PROPN
+  of/PROPN
+  the/PROPN
+  switch&#8221/PROPN
+NP el/DET olvido/NOUN
+NP causa/NOUN
+NP resto/NOUN
+NP temas/NOUN
+NP Tan/NOUN
+NP solo/NOUN
+NP el/DET disco/NOUN
+NP grupo/NOUN
+NP ganas/NOUN
+NP buen/ADJ precio/NOUN
+NP todos/NOUN
+NP modos/NOUN
+NP este/DET disco/NOUN
+NP cualquier/DET bazofia/NOUN
+NP mercado/NOUN
+NP desgracia/NOUN
+NP hard/PROPN rock/PROPN
+NP dia/PROPN
+NP fu/PROPN
+NP fa/NOUN
+NP Desde/NOUN
+NP el/DET peor/ADJ trabajo/NOUN
+NP The/PROPN Beatles/PROPN
+NP Esta/DET banda/NOUN
+NP rock'n'roll/NOUN
+NP la/DET música/NOUN
+NP mediados/NOUN
+NP la/DET década/NOUN
+NP los/DET sesenta/NOUN
+NP una/DET huella/NOUN
+NP tal/NOUN
+NP vez/NOUN
+NP Su/DET repertorio/NOUN
+NP unos/DET talentos/NOUN
+NP pop/NOUN
+NP embargo/NOUN
+NP Yellow/PROPN Submarine/PROPN
+NP una/DET mala/ADJ prueba/NOUN
+NP su/DET gran/ADJ trabajo/NOUN
+NP La/DET mitad/NOUN
+NP disco/NOUN
+NP arreglos/NOUN
+NP la/DET película/NOUN
+NP su/DET productor/NOUN
+NP George/PROPN Martin/PROPN
+NP otra/DET mitad/NOUN
+NP temas/NOUN
+NP la/DET banda/NOUN
+NP los/DET años/NOUN
+NP psicodélia/PROPN
+NP dichos/ADJ temas/NOUN
+NP definitiva/NOUN
+NP Beatles/PROPN
+NP su/DET campo/NOUN
+NP las/DET bandas/NOUN
+NP mi/DET humilde/ADJ opinión/NOUN
+NP Tarja/PROPN Turunen/PROPN
+NP El/DET nombre/NOUN
+NP cabeza/NOUN
+NP seguidores/NOUN
+NP Nightwish/PROPN
+NP el/DET día/NOUN
+NP mediatizada/ADJ partida/NOUN
+NP La/DET soprano/NOUN
+NP el/DET fortísimo/ADJ desencuentro/NOUN
+NP la/DET carta/NOUN
+NP Tuomas/PROPN Holopainen/PROPN
+NP mundo/NOUN
+NP una/DET lacrimógena/NOUN
+NP rueda/NOUN
+NP prensa/NOUN
+NP el/DET descortés/ADJ comportamiento/NOUN
+NP sus/DET ex/ADJ compañeros/NOUN
+NP grupo/NOUN
+NP cuanto/NOUN
+NP la/DET manera/NOUN
+NP Bye/PROPN Bye/PROPN Beautiful/PROPN
+NP Una/DET conversación/NOUN
+NP una/DET desgarrada/NOUN
+NP carta/NOUN
+NP patentes/NOUN
+NP los/DET sentimientos/NOUN
+NP frustración/NOUN
+NP hastío/NOUN
+NP compositor/NOUN
+NP cabeza/NOUN
+NP grupo/NOUN
+NP Acusaciones/NOUN
+NP egoísmo/NOUN
+NP avaricia/NOUN
+NP una/DET desbordada/ADJ vanidad/NOUN
+NP la/DET ex/ADJ vocalista/NOUN
+NP diferencias/NOUN
+NP el/DET marido/NOUN
+NP origen/NOUN
+NP propia/DET banda/NOUN
+NP un/DET polémico/ADJ debate/NOUN
+NP las/DET inclinaciones/NOUN
+NP Holopainen/PROPN
+NP compañía/NOUN
+NP Tuomas/PROPN
+NP semejantes/DET palabras/NOUN
+NP opino/NOUN
+NP bombo/NOUN
+NP platillo/NOUN
+NP un/DET comentario/NOUN
+NP Algún/DET tiempo/NOUN
+NP polémicos/ADJ cruces/NOUN
+NP acusaciones/NOUN
+NP Marcelo/PROPN Cabulli/PROPN
+NP Nightwish/PROPN
+NP la/DET diva/NOUN
+NP Metal/PROPN
+NP su/DET futuro/NOUN
+NP solista/NOUN
+NP primer/ADJ plato/NOUN
+NP su/DET disco/NOUN
+NP navidad/PROPN
+NP Aliento/PROPN
+NP Cielo/PROPN
+NP el/DET título/NOUN
+NP Henkäys/PROPN Ikuisuudesta/PROPN
+NP El/DET lanzamiento/NOUN
+NP un/DET rotundo/ADJ éxito/NOUN
+NP Finlandia/PROPN
+NP Rusia/PROPN
+NP El/DET álbum/NOUN
+NP cuestión/NOUN
+NP varias/DET canciones/NOUN
+NP país/NOUN
+NP la/DET debutante/NOUN
+NP front/PROPN
+NP woman/PROPN
+NP algunas/DET versiones/NOUN
+NP Happy/PROPN Christmas/PROPN
+NP War/PROPN Is/PROPN Over/PROPN
+NP John/PROPN Lenon/PROPN
+NP Ave/PROPN María/PROPN
+NP Schubert/PROPN
+NP una/DET delicia/NOUN
+NP su/DET voz/NOUN
+NP obstante/NOUN
+NP moverse/PROPN
+NP una/DET línea/NOUN
+NP la/DET mediocridad/NOUN
+NP la/DET escucha/NOUN
+NP ciertos/DET toques/NOUN
+NP un/DET hortera/NOUN
+NP el/DET finlandés/NOUN
+NP un/DET idioma/NOUN
+NP dominio/NOUN
+NP una/DET elección/NOUN
+NP una/DET carrera/NOUN
+NP la/DET vida/NOUN
+NP noviembre/NOUN
+NP Tarja/PROPN
+NP sus/DET fans/NOUN
+NP su/DET primer/ADJ lanzamiento/NOUN
+NP solista/NOUN
+NP My/PROPN Winter/PROPN Storm/PROPN
+NP músicos/NOUN
+NP dilatada/ADJ experiencia/NOUN
+NP el/DET bajista/NOUN
+NP Annie/PROPN Lennox/PROPN
+NP un/DET ex/ADJ componente/NOUN
+NP Apocalyptica/PROPN
+NP un/DET nuevo/ADJ periodo/NOUN
+NP ilusión/NOUN
+NP la/DET vida/NOUN
+NP la/DET joven/ADJ cantante/NOUN
+NP la/DET susodicha/NOUN
+NP Dios/PROPN
+NP mundo/NOUN
+NP Angels/PROPN Fall/PROPN First/PROPN
+NP devoto/NOUN
+NP voz/NOUN
+NP el/DET disco/NOUN
+NP un/DET FRAUDE/NOUN
+NP La/DET decepción/NOUN
+NP Walk/PROPN Alone/PROPN
+NP la/DET venida/NOUN
+NP la/DET golosa/ADJ comercialidad/NOUN
+NP el/DET abandono/NOUN
+NP los/DET valores/NOUN
+NP la/DET mencionada/ADJ rueda/NOUN
+NP prensa/NOUN
+NP la/DET señorita/NOUN
+NP Turunen/PROPN
+NP la/DET banda/NOUN
+NP Mi/DET verdadero/ADJ fin/NOUN
+NP dedicarme/NOUN
+NP la/DET música/NOUN
+NP cantante/NOUN
+NP ópera/NOUN
+NP Heavy/PROPN Metal/PROPN
+NP Opera/PROPN
+NP la/DET interpretación/NOUN
+NP temas/NOUN
+NP la/DET música/NOUN
+NP su/DET álbum/NOUN
+NP navidad/PROPN
+NP algún/DET elemento/NOUN
+NP este/DET disco/NOUN
+NP rock/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP la/DET voz/NOUN
+NP Tarja/PROPN
+NP Un/DET repertorio/NOUN
+NP temas/NOUN
+NP intros/NOUN
+NP una/DET versión/NOUN
+NP Alice/PROPN Cooper/PROPN
+NP Poison/PROPN
+NP una/DET pésima/ADJ elección/NOUN
+NP peor/ADJ ejecución/NOUN
+NP las/DET baladas/NOUN
+NP Tarja/PROPN
+NP máximo/NOUN
+NP sus/DET recursos/NOUN
+NP un/DET aire/NOUN
+NP calidad/NOUN
+NP disco/NOUN
+NP las/DET composiciones/NOUN
+NP My/PROPN Winter/PROPN Storm/PROPN
+NP oleadas/NOUN
+NP voz/NOUN
+NP temas/NOUN
+NP estrella/NOUN
+NP Lost/PROPN Northern/PROPN Star/PROPN
+NP las/DET peores/ADJ canciones/NOUN
+NP mi/DET vida/NOUN
+NP este/DET disco/NOUN
+NP un/DET disco/NOUN
+NP Eurovisión/PROPN
+NP segundo/ADJ single/NOUN
+NP Tarja/PROPN
+NP Die/PROPN Alive/PROPN
+NP una/DET vez/NOUN
+NP Nightwish/PROPN
+NP grupo/NOUN
+NP el/DET alma/NOUN
+NP los/DET finlandeses/NOUN
+NP la/DET voz/NOUN
+NP la/DET soprano/NOUN
+NP el/DET talentazo/NOUN
+NP Tuomas/PROPN
+NP Dark/PROPN Passion/PROPN Play/PROPN
+NP un/DET álbum/NOUN
+NP excelentísima/ADJ calidad/NOUN
+NP Kitee/PROPN
+NP la/DET amarga/ADJ experiencia/NOUN
+NP crítica/PROPN
+NP una/DET vocalista/NOUN
+NP digamos/NOUN
+NP recursos/NOUN
+NP su/DET predecesora/NOUN
+NP la/DET conclusión/NOUN
+NP vida/NOUN
+NP Tarja/PROPN
+NP vida/NOUN
+NP Nightwish?/PROPN
+NP momento/NOUN
+NP Turunen/PROPN
+NP haberla/NOUN
+NP esta/DET vida/NOUN
+NP discos/NOUN
+NP público/NOUN
+NP sus/DET inicios/NOUN
+NP Metal/PROPN
+NP dudas/NOUN
+NP la/DET vocalista/NOUN
+NP su/DET gira/NOUN
+NP previo/ADJ consentimiento/NOUN
+NP Tuomas/PROPN
+NP temas/NOUN
+NP Nemo/PROPN
+NP Passion/PROPN And/PROPN The/PROPN Opera/PROPN
+NP una/DET desapasionada/NOUN
+NP deficiente/ADJ versión/NOUN
+NP The/PROPN Phantom/PROPN Of/PROPN The/PROPN Opera/PROPN
+NP la/DET suprema/ADJ actuación/NOUN
+NP Hartwall/PROPN Arena/PROPN
+NP Helsinki/PROPN
+NP aquellos/DET días/NOUN
+NP melodías/NOUN
+NP calidad/NOUN
+NP fuerza/NOUN
+NP definitiva/NOUN
+NP buenos/ADJ temas/NOUN
+NP sus/DET actuaciones/NOUN
+NP nuevos/ADJ éxitos/NOUN
+NP desgracia/NOUN
+NP la/DET desvincule/NOUN
+NP su/DET antigua/ADJ vida/NOUN
+NP parecer/NOUN
+NP Tarja/PROPN
+NP esos/DET días/NOUN
+NP gloria/NOUN
+NP manera/NOUN
+NP esos/DET fans/NOUN
+NP su/DET talento/NOUN
+NP personalidad/NOUN
+NP esta/DET lamentable/ADJ producción/NOUN
+NP pseudo/NOUN
+NP heavy/NOUN
+NP pseudo/NOUN
+NP esperáis/PROPN
+NP The/PROPN Siren/PROPN
+NP Sleeping/PROPN Sun/PROPN
+NP manteneos/NOUN
+NP My/PROPN Winter/PROPN Storm/PROPN
+NP Saludos/NOUN
+NP Señoras/PROPN
+NP señores/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP el/DET gran/ADJ provocador/NOUN
+NP Antichrist/PROPN Superstar/PROPN
+NP una/DET obra/NOUN
+NP la/DET autodestrucción/NOUN
+NP el/DET nihilismo/NOUN
+NP mundo/NOUN
+NP una/DET forma/NOUN
+NP rock/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP sus/DET fans/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP The/PROPN
+NP age/PROPN of/PROPN grotesque/PROPN
+NP un/DET album/NOUN
+NP realidad/NOUN
+NP tema/NOUN
+NP Los/DET vodeviles/NOUN
+NP primera/ADJ mitad/NOUN
+NP siglo/NOUN
+NP XX/NOUN
+NP la/DET excusa/NOUN
+NP MM/PROPN
+NP el/DET album/NOUN
+NP Antichrist/PROPN
+NP Coincidencia/PROPN
+NP El/DET reverendo/NOUN
+NP Antichrist/PROPN
+NP discos/NOUN
+NP Mechanical/PROPN animals/PROPN
+NP Holy/PROPN wood/PROPN
+NP la/DET evocación/NOUN
+NP glam/NOUN
+NP Ziggy/PROPN Stardust/PROPN
+NP el/DET rock/NOUN
+NP basico/NOUN
+NP la/DET critica/NOUN
+NP fan/NOUN
+NP este/DET encasillamiento/NOUN
+NP Manson/PROPN
+NP la/DET vuelta/NOUN
+NP las/DET asfixiantes/ADJ programaciones/NOUN
+NP las/DET guitarras/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP el/DET puesto/NOUN
+NP la/DET cabeza/NOUN
+NP su/DET grupo/NOUN
+NP Twiggy/PROPN Ramirez/PROPN
+NP el/DET principio/NOUN
+NP Twiggy/PROPN
+NP perfect/NOUN
+NP Circle/PROPN
+NP el/DET puesto/NOUN
+NP la/DET bajista/NOUN
+NP Paz/PROPN Lechantin/PROPN
+NP Zwan/PROPN
+NP Billy/PROPN Corgan/PROPN
+NP el/DET unico/ADJ miembro/NOUN
+NP principio/NOUN
+NP Madonna/PROPN Wayne/PROPN Gacy/PROPN
+NP el/DET teclista/NOUN
+NP fin/NOUN
+NP los/DET temas/NOUN
+NP The/PROPN golden/PROPN age/PROPN of/PROPN
+NP grotesque/NOUN
+NP uno:1/NOUN
+NP Intro/NOUN
+NP una/DET aburrida/NOUN
+NP un/DET tecladito/NOUN
+NP un/DET repetido/ADJ ritmo/NOUN
+NP Cero/NOUN
+NP miedo/NOUN
+NP ambienta.2/PROPN
+NP This/PROPN is/PROPN the/PROPN new/PROPN shit/PROPN
+NP La/DET primera/ADJ impresión/NOUN
+NP esta/DET canción/NOUN
+NP sonido/NOUN
+NP Antichist/PROPN Superstar/PROPN
+NP mismo/ADJ tiempo/NOUN
+NP Gary/PROPN Numan/PROPN
+NP La/DET electronica/NOUN
+NP la/DET canción/NOUN
+NP salvandose/NOUN
+NP el/DET estribillo/NOUN
+NP salvable.3/PROPN
+NP mOBSCENE/NOUN
+NP Disposable/PROPN Teens/PROPN
+NP este/DET disco/NOUN
+NP The/PROPN Fight/PROPN Song/PROPN
+NP guitarrero/NOUN
+NP nivel/NOUN
+NP estribillo/NOUN
+NP pequeñas/ADJ pinceladas/NOUN
+NP voces/NOUN
+NP el/DET videoclip/NOUN
+NP poder/NOUN
+NP muchas/DET cosas/NOUN
+NP anterioridad.4/PROPN
+NP Doll/PROPN dagga/PROPN buzz/PROPN
+NP buzz/PROPN ziggety/PROPN
+NP zag/NOUN
+NP este/DET titulo/NOUN
+NP un/DET tema/NOUN
+NP cuenta/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP guitarrero/NOUN
+NP Use/PROPN your/PROPN fist/PROPN and/PROPN not/PROPN your/PROPN
+NP mouth/NOUN
+NP los/DET temas/NOUN
+NP disco/NOUN
+NP el/DET sonido/NOUN
+NP las/DET guitarras/NOUN
+NP las/DET voces/NOUN
+NP un/DET tema/NOUN
+NP The/PROPN Golden/PROPN age/PROPN of/PROPN
+NP grotesque/NOUN
+NP favor/NOUN
+NP el/DET tema/NOUN
+NP disco/NOUN
+NP mi/DET opinión/NOUN
+NP un/DET asco/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP Marlene/PROPN Dietrich/PROPN
+NP estilo/NOUN
+NP Antichrist/PROPN Superstar/PROPN
+NP malo/NOUN
+NP un/DET tema/NOUN
+NP una/DET vez/NOUN
+NP acaso/NOUN
+NP despues/NOUN
+NP costumbre/NOUN
+NP los/DET temas/NOUN
+NP Manson/PROPN
+NP fijarse/PROPN
+NP Gary/PROPN Numan/PROPN
+NP Ritmos/NOUN
+NP teclados/ADJ comiendoselo/NOUN
+NP anuncio/NOUN
+NP Levi/PROPN 's/PROPN
+NP Ka/NOUN
+NP Boom/PROPN Ka/PROPN
+NP Boom/NOUN
+NP los/DET temas/NOUN
+NP pena/NOUN
+NP gloria/NOUN
+NP disco/NOUN
+NP un/DET buen/ADJ estribillo/NOUN
+NP Manson/PROPN
+NP un/DET gritito/NOUN
+NP falsete/NOUN
+NP mitad/NOUN
+NP tema/NOUN
+NP Otro/DET tema/NOUN
+NP boom/NOUN
+NP Ka/PROPN
+NP boom/NOUN
+NP Estribillo/NOUN
+NP un/DET tema/NOUN
+NP Spade/PROPN
+NP mi/DET opinión/NOUN
+NP los/DET mejores/ADJ temas/NOUN
+NP disco/NOUN
+NP una/DET mezcla/NOUN
+NP Antichrist/PROPN
+NP Mechanical/PROPN animals/PROPN
+NP 10.11/NOUN
+NP Un/DET tema/NOUN
+NP una/DET caja/NOUN
+NP ritmo/NOUN
+NP plan/NOUN
+NP Depeche/PROPN Mode/PROPN
+NP aquella/DET monotona/NOUN
+NP Mister/PROPN Oizo/PROPN
+NP voces/NOUN
+NP tias/NOUN
+NP Fuck/PROPN
+NP un/DET buen/ADJ rato/NOUN
+NP paso/NOUN
+NP los/DET berridos/NOUN
+NP Manson/PROPN
+NP 10.12/NOUN
+NP The/PROPN bright/PROPN young/PROPN
+NP Otro/DET tema/NOUN
+NP gusto/NOUN
+NP Antichrist/PROPN
+NP muchos/DET temas/NOUN
+NP ese/DET disco/NOUN
+NP Little/PROPN horn/PROPN
+NP Cryptorchild/PROPN
+NP la/DET ultima/NOUN
+NP canciones/NOUN
+NP este/DET disco/NOUN
+NP estribillo.13/PROPN
+NP Better/PROPN of/PROPN two/PROPN
+NP evils/NOUN
+NP Ritmos/NOUN
+NP cuasibreakbeat/PROPN
+NP guitarra/NOUN
+NP estilo/NOUN
+NP Disposable/PROPN teens/PROPN
+NP The/PROPN beautiful/PROPN people/PROPN
+NP este/DET disco/NOUN
+NP Vodevil/PROPN
+NP misma/DET onda/NOUN
+NP The/PROPN bright/PROPN young/PROPN things/PROPN
+NP este/DET tema/NOUN
+NP el/DET disco/NOUN
+NP un/DET sentimiento/NOUN
+NP indiferencia/NOUN
+NP 10.Como/PROPN
+NP podreis/NOUN
+NP este/DET disco/NOUN
+NP razones/NOUN
+NP este/DET disco/NOUN
+NP los/DET temas/NOUN
+NP ese/DET sonido/NOUN
+NP Marilyn/PROPN Manson/PROPN
+NP este/DET disco/NOUN
+NP mismo/DET artista/NOUN
+NP la/DET electronica/NOUN
+NP mucha/DET parte/NOUN
+NP disco/NOUN
+NP las/DET voces/NOUN
+NP fin/NOUN
+NP los/DET incondicionales/NOUN
+NP Manson/PROPN
+NP un/DET arcón/NOUN
+NP polo/PROPN norte/PROPN
+NP un/DET disco/NOUN
+NP smith/PROPN
+NP correria/PROPN
+NP el/DET año/NOUN
+NP asi/PROPN
+NP mi/DET gusto/NOUN
+NP ningun/NOUN
+NP temazo/NOUN
+NP ningun/NOUN
+NP tema/NOUN
+NP un/DET fan/NOUN
+NP aerosmith/PROPN
+NP canciones:-Jilbait/PROPN
+NP Lightning/PROPN strikes/PROPN
+NP Bitch´s/PROPN
+NP brew/NOUN
+NP ragammufin/NOUN
+NP Cry/PROPN
+NP Joanie´s/PROPN butterfly/PROPN
+NP Rock/PROPN
+NP hard/PROPN palace/PROPN
+NP Jig/PROPN is/PROPN up/PROPN
+NP Push/PROPN comes/PROPN to/PROPN soveDisco/PROPN
+NP momentos/NOUN
+NP grupo/NOUN
+NP sacarlos/NOUN
+NP atolladero/NOUN
+NP este/DET disco/NOUN
+NP un/DET fan/NOUN
+NP fan/NOUN
+NP puro/ADJ coleccionismo/NOUN
+NP Recomendaria/PROPN Get/PROPN
+NP Grip/PROPN
+NP Nine/PROPN Lives/PROPN
+NP el/DET recopilatorio/NOUN
+NP One/PROPN Soy/PROPN
+NP fan/NOUN
+NP fan/NOUN
+NP estos/DET chicos/NOUN
+NP alguna/DET cancion/NOUN
+NP este/DET disco/NOUN
+NP acuerdo/NOUN
+NP friends/PROPN
+NP aeroplane/PROPN
+NP temas/NOUN
+NP ahi/PROPN
+NP este/DET disco/NOUN
+NP La/DET ausencia/NOUN
+NP John/PROPN Frusciante/PROPN
+NP el/DET guitarrista/NOUN
+NP un/DET disco/NOUN
+NP Dave/PROPN Navarro/PROPN
+NP el/DET grupo/NOUN
+NP su/DET estilo/NOUN
+NP musica/PROPN
+NP esta/DET mezcla/NOUN
+NP punk/PROPN
+NP rock/PROPN
+NP unicos/NOUN
+NP suerte/NOUN
+NP guitarra/NOUN
+NP Mi/DET recomendacion/NOUN
+NP busqueis/PROPN
+NP sus/DET discos/NOUN
+NP comparais/PROPN
+NP Un/DET saludo/NOUN
+NP una/DET frase/NOUN
+NP trates/NOUN
+NP esa/DET frase/NOUN
+NP anillo/NOUN
+NP dedo/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP el/DET 2004/NOUN
+NP This/PROPN Left/PROPN Feels/PROPN Right/PROPN
+NP los/DET éxitos/NOUN
+NP su/DET trayectoria/NOUN
+NP versiones/NOUN
+NP principio/NOUN
+NP siquiera/NOUN
+NP este/DET proyecto/NOUN
+NP Bon/PROPN Jovi/PROPN
+NP veriones/NOUN
+NP sus/DET éxitos/NOUN
+NP completo/NOUN
+NP la/DET banda/NOUN
+NP Jon/PROPN
+NP el/DET pasado/NOUN
+NP sus/DET inicios/NOUN
+NP primeros/ADJ discos/NOUN
+NP ninguna/DET canción/NOUN
+NP vivo/NOUN
+NP Runaway/PROPN
+NP el/DET single/NOUN
+NP primer/ADJ álbum/NOUN
+NP Jon/PROPN
+NP Fahrenheit/PROPN
+NP ese/DET disco/NOUN
+NP palabras/NOUN
+NP buenas/ADJ canciones/NOUN
+NP ese/DET disco/NOUN
+NP This/PROPN Left/PROPN Feels/PROPN Right/PROPN
+NP Jon/PROPN
+NP la/DET banda/NOUN
+NP el/DET pasado/NOUN
+NP versiones/NOUN
+NP los/DET éxitos/NOUN
+NP 90's?/NOUN
+NP la/DET banda/NOUN
+NP el/DET pasado/NOUN
+NP un/DET buen/ADJ disco/NOUN
+NP Hard/PROPN Rock/PROPN
+NP los/DET discos/NOUN
+NP canciones/NOUN
+NP éxito/NOUN
+NP la/DET versión/NOUN
+NP lo/DET único/ADJ rescatable/NOUN
+NP disco/NOUN
+NP las/DET canciones/NOUN
+NP Keep/PROPN The/PROPN Faith/PROPN
+NP Il'l/PROPN Be/PROPN There/PROPN For/PROPN You/PROPN
+NP el/DET resto/NOUN
+NP Jon/PROPN
+NP Richie/PROPN
+NP guitarras/NOUN
+NP MTV/PROPN Music/PROPN Awards/PROPN
+NP 1989/NOUN
+NP un/DET éxito/NOUN
+NP Gracias/NOUN
+NP CD/PROPN
+NP un/DET par/NOUN
+NP veces/NOUN
+NP chichá/NOUN
+NP limoná/NOUN
+NP el/DET estilo/NOUN
+NP Rihanna/PROPN
+NP mezcla/NOUN
+NP pop/PROPN
+NP r&b/NOUN
+NP música/NOUN
+NP una/DET edición/NOUN
+NP su/DET anterior/ADJ disco/NOUN
+NP sus/DET propias/ADJ canciones/NOUN
+NP Beyoncé/PROPN
+NP carro/NOUN
+NP Nelly/PROPN Furtado/PROPN
+NP comentaros/NOUN
+NP CD/PROPN
+NP remezclas/NOUN
+NP mi/DET gusto/NOUN
+NP CD/PROPN
+NP un/DET par/NOUN
+NP duetos/NOUN
+NP Jay/PROPN
+NP Z/PROPN
+NP Ne/PROPN
+NP la/DET verdad/NOUN
+NP la/DET canción/NOUN
+NP Ne/PROPN
+NP Dilemma/PROPN
+NP Nelly/PROPN
+NP Kelly/PROPN Rowland/PROPN
+NP la/DET quema/NOUN
+NP Push/PROPN Up/PROPN On/PROPN Me/PROPN
+NP Don't/PROPN Stop/PROPN The/PROPN Music/PROPN
+NP el/DET resto/NOUN
+NP las/DET canciones/NOUN
+NP la/DET hoguera/NOUN
+NP cabeza/NOUN
+NP Rihanna/PROPN
+NP Lista/PROPN
+NP canciones/NOUN
+NP Disco/PROPN
+NP Umbrella/PROPN
+NP Rihanna/PROPN &/PROPN Jay/PROPN
+NP Z2/PROPN
+NP Push/PROPN Up/PROPN On/PROPN Me3/PROPN
+NP Don't/PROPN Stop/PROPN The/PROPN Music4/PROPN
+NP Breakin/PROPN
+NP Dishes5/PROPN
+NP Shut/PROPN Up/PROPN And/PROPN
+NP Hate/PROPN That/PROPN
+NP Love/PROPN You/PROPN
+NP Rihanna/PROPN &/PROPN Ne/PROPN
+NP Yo7/NOUN
+NP It8/PROPN
+NP Sell/PROPN
+NP Candy9/PROPN
+NP Lemme/PROPN Get/PROPN That10/PROPN
+NP Rehab11/PROPN
+NP Question/PROPN Existing12/PROPN
+NP Good/PROPN Girl/PROPN Gone/PROPN Bad13/PROPN
+NP CryDisco/PROPN
+NP Umbrella/PROPN
+NP Seamus/PROPN Haji/PROPN and/PROPN Paul/PROPN Emanual/PROPN
+NP club/NOUN
+NP remix2/PROPN
+NP Breakin/PROPN
+NP Dishes/PROPN
+NP Soul/PROPN Seekerz/PROPN remix3/PROPN
+NP Don't/PROPN Stop/PROPN The/PROPN Music/PROPN
+NP Wideboys/PROPN
+NP club/NOUN
+NP mix4/PROPN
+NP Question/PROPN Existing/PROPN
+NP Wideboys/PROPN
+NP club/NOUN
+NP mix5/PROPN
+NP Hate/PROPN That/PROPN
+NP Love/PROPN You/PROPN
+NP K/NOUN
+NP Klassic/PROPN remix6/PROPN
+NP Push/PROPN Up/PROPN On/PROPN
+NP Moto/PROPN Blanco/PROPN
+NP club/NOUN
+NP mix7/PROPN
+NP Good/PROPN Girl/PROPN Gone/PROPN Bad/PROPN
+NP Soul/PROPN Seekerz/PROPN remix8/PROPN
+NP Haunted/PROPN
+NP Steve/PROPN Mac/PROPN classic/PROPN mix9/PROPN
+NP Say/PROPN
+NP Soul/PROPN Seekerz/PROPN remix10/PROPN
+NP Cry/PROPN
+NP Steve/PROPN Mac/PROPN classic/PROPN mix11/PROPN
+NP SOS/PROPN
+NP Digital/PROPN Dog/PROPN
+NP Puuaaaaajjjjj/PROPN
+NP Menuda/ADJ porqueria/NOUN
+NP tio/NOUN
+NP los/DET incondicionales/ADJ fans/NOUN
+NP este/DET personaje/NOUN
+NP la/DET verdad/NOUN
+NP daria/ADJ verguenza/NOUN
+NP idolo/NOUN
+NP asqueroso/ADJ este/NOUN
+NP mal/NOUN
+NP tiempo/NOUN
+NP las/DET memeces/NOUN
+NP la/DET musica/NOUN
+NP la/DET civilizacion/NOUN
+NP la/DET gente/NOUN
+NP loca/PROPN
+NP las/DET personas/NOUN
+NP aguantarle/PROPN
+NP Cada/DET vez/NOUN
+NP algun/NOUN
+NP la/DET comida/NOUN
+NP la/DET bilis/NOUN
+NP estomago/NOUN
+NP la/DET boca/NOUN
+NP termino/PROPN
+NP Asco/PROPN
+NP ascoSoy/PROPN
+NP una/DET gran/ADJ admiradora/NOUN
+NP Queen/PROPN
+NP sus/DET discos/NOUN
+NP la/DET única/ADJ banda/NOUN
+NP mi/DET opinión/NOUN
+NP la/DET música/NOUN
+NP la/DET película/NOUN
+NP Queen/PROPN
+NP una/DET película/NOUN
+NP la/DET peli/NOUN
+NP este/DET disco/NOUN
+NP Este/DET disco/NOUN
+NP siquiera/NOUN
+NP Flaaaaaaash/PROPN
+NP el/DET anuncio/NOUN
+NP Vip/PROPN Expreees/PROPN
+NP fin/NOUN
+NP el/DET peor/ADJ disco/NOUN
+NP la/DET discografía/NOUN
+NP este/DET grupo/NOUN
+NP Disco/PROPN
+NP mi/DET connotaciones/NOUN
+NP la/DET primera/ADJ escucha/NOUN
+NP Un/DET disco/NOUN
+NP versiones/NOUN
+NP clásicos/NOUN
+NP punk/NOUN
+NP la/DET mayor/ADJ parte/NOUN
+NP los/DET seguidores/NOUN
+NP la/DET banda/NOUN
+NP un/DET pito/NOUN
+NP mas/PROPN
+NP Duff/PROPN Mckagan/PROPN
+NP GNR/PROPN
+NP una/DET banda/NOUN
+NP El/DET canto/NOUN
+NP cisne/NOUN
+NP la/DET mejor/ADJ banda/NOUN
+NP rock/NOUN
+NP and/NOUN
+NP roll/NOUN
+NP la/DET historia/NOUN
+NP los/DET seguidores/NOUN
+NP Stones/PROPN
+NP Beatles/PROPN
+NP disculpas/NOUN
+NP rock/NOUN
+NP beatles/PROPN
+NP La/DET mejor/ADJ banda/NOUN
+NP rock/NOUN
+NP tan/NOUN
+NP solo/NOUN
+NP un/DET disco/NOUN
+NP apettite/NOUN
+NP for/PROPN destruction/PROPN
+NP años/NOUN
+NP despues/NOUN
+NP su/DET primera/ADJ edición/NOUN
+NP puñetas/NOUN
+NP esos/DET crios/NOUN
+NP pantalones/NOUN
+NP trasero/NOUN
+NP enormes/ADJ cadenas/NOUN
+NP los/DET bolsillos/NOUN
+NP sus/DET lampiñas/ADJ caras/NOUN
+NP mala/ADJ leche/NOUN
+NP loq/PROPN ue/PROPN
+NP despues/NOUN
+NP este/DET disco/NOUN
+NP años/NOUN
+NP silencio/NOUN
+NP su/DET majestad/NOUN
+NP axl/PROPN rose/PROPN
+NP la/DET manga/NOUN
+NP amigos/NOUN
+NP Guns/PROPN N/PROPN Roses/PROPN
+NP reapareción/NOUN
+NP el/DET rock/NOUN
+NP rio/PROPN III/PROPN
+NP un/DET cochino/NOUN
+NP la/DET imagen/NOUN
+NP estrella/NOUN
+NP rock/NOUN
+NP caida/NOUN
+NP desgracia/NOUN
+NP Personalemnet/PROPN
+NP los/DET últimos/ADJ tiempos/NOUN
+NP Elvis/PROPN
+NP Elvis/PROPN
+NP drogadicto/NOUN
+NP su/DET glamour/NOUN
+NP los/DET peores/ADJ momentos/NOUN
+NP El/DET señor/NOUN
+NP Rose/PROPN
+NP pena/NOUN
+NP risa/NOUN
+NP el/DET consuelo/NOUN
+NP Slash/PROPN
+NP el/DET amo/NOUN
+NP cotarro/NOUN
+NP sus/DET cositas/NOUN
+NP manera/NOUN
+NP este/DET disco/NOUN
+NP novedad/NOUN
+NP la/DET tienda/NOUN
+NP música/NOUN
+NP compro/PROPN
+NP la/DET mayor/ADJ decepción/NOUN
+NP letras/NOUN
+NP mucha/DET originalidad/NOUN
+NP el/DET cantante/NOUN
+NP la/DET voz/NOUN
+NP los/DET gallos/NOUN
+NP los/DET gritos/NOUN
+NP una/DET sensación/NOUN
+NP ruido/NOUN
+NP música/NOUN
+NP La/DET guitarra/NOUN
+NP grupo/NOUN
+NP calidad/NOUN
+NP La/DET producción/NOUN
+NP un/DET grupo/NOUN
+NP años/NOUN
+NP estilo/NOUN
+NP otros/DET grupos/NOUN
+NP la/DET pena/NOUN
+NP un/DET amigo/NOUN
+NP la/DET tontería/NOUN
+NP yosuelo/NOUN
+NP la/DET música/NOUN
+NP heavy/NOUN
+NP Power/PROPN Metal/PROPN
+NP recomendaría/NOUN
+NP Blind/PROPN Guardianpodéis/PROPN
+NP algunas/DET opiniones/NOUN
+NP CIAO,Rapsody/PROPN
+NP Gammaray/PROPN
+NP Black/PROPN Metal/PROPN
+NP Craddel/PROPN
+NP Heavy/PROPN
+NP Maiden/PROPN
+NP Megadeth/PROPN
+NP Scorpions/PROPN
+NP Una/DET opinión/NOUN
+NP Rop/PROPN Zomby/PROPN
+NP Jennifer/PROPN Lopez/PROPN
+NP una/DET actriz/NOUN
+NP una/DET cantante/NOUN
+NP prestigio/NOUN
+NP Sus/DET videos/NOUN
+NP una/DET muestra/NOUN
+NP su/DET cuerpo/NOUN
+NP una/DET prepotencia/NOUN
+NP sus/DET agentes/NOUN
+NP Las/DET canciones/NOUN
+NP pegadizas/NOUN
+NP demostrarlo/PROPN
+NP la/DET moda/NOUN
+NP español/NOUN
+NP las/DET entrevistas/NOUN
+NP dias/PROPN
+NP todas/DET formas/NOUN
+NP una/DET buena/ADJ voz/NOUN
+NP sus/DET canciones/NOUN
+NP la/DET discoteca/NOUN
